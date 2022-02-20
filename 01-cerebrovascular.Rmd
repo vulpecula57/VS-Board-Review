@@ -143,35 +143,35 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
     period.
 
 -   Each 10-mm Hg reduction in blood pressure among hypertensive
-    patients decreases the risk for stroke by 33%.
+    patients decreases the risk for stroke by 33%. ( can we reference this?)
 
 **Diabetes**
 
--   Glucose control to nearly normoglycemic levels (target hemoglobin
-    A1C \<7%) is recommended among diabetic patients to reduce
-    microvascular complications and, with lesser certainty,
-    macrovascular complications other than stroke.
+-   In diabetic patients glycaemic control to nearly normoglycemic levels (target hemoglobin
+    A1C \<7%) is recommended to reduce
+    microvascular complications and, with a lower evidence base,
+    macrovascular complications other than stroke. (can we reference this?)
 
 **Lipid abnormalities**
 
 -   Risk of stroke decreased by >15% for every 10% reduction in serum
-    LDL in patients with known coronary or other atherosclerosis
+    LDL in patients with known coronary or other atherosclerosis. (reference) 
 
 -   Statin agents are recommended targeting LDL of 100 mg/dL, for those
     with coronary heart disease or symptomatic atherosclerotic disease,
     and LDL of 70 mg/dL for very high-risk persons with multiple risk
-    factors
+    factors. (Ref) 
 
 -   High dose statin therapy in patients with TIA/stroke reduce future
     rates of stroke or cardiovascular events but not overall mortality
     at 5 years. [@karamHighDoseAtorvastatinStroke2008]
 
-**Smoking** - Physician counseling is an important and effective
-intervention that reduces smoking in patients by 10% to 20%
+**Smoking** - Efforts to encourage smoking cessation in these patients is paramount for risk reduction. Physician counseling is an important and effective
+intervention that reduces smoking in patients by 10% to 20%. (Ref) 
 
 **Antithrombotic therapy** - There is no evidence to suggest that
 antiplatelet agents other than aspirin have improved benefit in
-asymptomatic patients with carotid atherosclerosis
+asymptomatic patients with carotid atherosclerosis. (ref) 
 
 ### **Carotid endarterectomy**
 
