@@ -13,15 +13,21 @@ editor_options:
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Mesenteric_Ischemia.mp3")
 
 ```
+# Overview 
 
-Mesenteric vascular disease can be broken down into three disease states
-that we'll cover today. There's the arterial disease, which is clearly
-separated into acute mesenteric ischemia and chronic mesenteric
-ischemia. Then there is venous disease, which we'll touch on briefly.
-There are also a handful of somewhat related diseases that we'll also
-sprinkle into these discussions, like median arcuate ligament syndrome
-and SMA syndrome, but that's overall where we're headed.
+Mesenteric vascular disease can be broken down into three disease states. 
 
+1. Arterial Disease
+2. Venous Disease
+3. Mesenteric Syndromes 
+
+Arterial disease, which is separated into acute mesenteric ischemia 
+and chronic mesenteric ischemia. Then there is venous disease.
+There are also a handful of related diseases 
+such as median arcuate ligament syndrome and SMA syndrome which will also 
+be covered over the course of this chapter.
+
+## Anatomy
 Mesenteric collatorals are important for protecting against mesenteric
 ischemia. The gastroduodenal and pacreaticoduodenal arteries connect the
 celiac and SMA. The meandering artery (arc of riolan) and marginal
