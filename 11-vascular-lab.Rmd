@@ -89,7 +89,7 @@ leading to high end-diastolic flow.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide3.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide3.png"))
 
 ```
 
@@ -103,7 +103,7 @@ diastolic phase.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide4.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide4.png"))
 
 ```
 
@@ -127,7 +127,7 @@ Tardus parvus in the brachial artery likely represents upstream
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide5.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide5.png"))
 
 ```
 
@@ -139,7 +139,7 @@ stenosis with absent diastolic flow)
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide6.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide6.png"))
 
 ```
 
@@ -198,7 +198,7 @@ vascular bed with antegrade diastolic flow.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide7.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide7.png"))
 
 ```
 
@@ -216,7 +216,7 @@ the diastolic component of the external carotid artery.[@pellerito2019;
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide8.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide8.png"))
 
 ```
 
@@ -233,7 +233,7 @@ criteria are not clearly defined for the CCA or ECA.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide9.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide9.png"))
 
 ```
 
@@ -264,7 +264,7 @@ typically found on Doppler interrogation.[@olin2012]
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide10.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide10.png"))
 
 ```
 
@@ -296,7 +296,7 @@ rather than towards the brain.[@kalaria2005; @mousa2017]
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide11.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide11.png"))
 
 ```
 
@@ -446,7 +446,7 @@ notch on the downslope during diastole.[@carter2001]
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide12.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide12.png"))
 
 ```
 
@@ -607,7 +607,7 @@ individuals with single level disease.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide13.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide13.png"))
 
 ```
 
@@ -698,7 +698,7 @@ represents the flow in and out of the PSA during systole and diastole.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide14.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide14.png"))
 
 ```
 
@@ -721,7 +721,7 @@ noncalcified plaque
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide15.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide15.png"))
 
 ```
 
@@ -749,7 +749,7 @@ defined crescent-shaped defect.[@shaw2007; @winn2015]
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide16.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide16.png"))
 
 ```
 
@@ -767,7 +767,7 @@ gastrocnemius will be identified.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide17.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide17.png"))
 
 ```
 
@@ -989,7 +989,7 @@ veins central veins, given their proximity to the heart.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide18.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide18.png"))
 
 ```
 
@@ -1009,7 +1009,7 @@ obstruction or stenosis.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide19.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide19.png"))
 
 ```
 
@@ -1020,7 +1020,7 @@ occlusion in the venous system from the knee to the probe.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide20.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide20.png"))
 
 ```
 
@@ -1036,7 +1036,7 @@ following valsalva or release of the compression cuff.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide21.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide21.png"))
 
 ```
 
@@ -1081,7 +1081,7 @@ significant distension.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide22.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide22.png"))
 
 ```
 
@@ -1111,7 +1111,7 @@ CFV.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide23.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide23.png"))
 
 ```
 
@@ -1132,7 +1132,7 @@ reflect, or refract ultrasonic waves.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide24.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide24.png"))
 
 ```
 
@@ -1149,7 +1149,7 @@ reflector as also being present on the other side of the reflector.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide25.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide25.png"))
 
 ```
 
@@ -1181,7 +1181,7 @@ noise.[@kremkau2021]
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide26.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide26.png"))
 
 ```
 
@@ -1193,7 +1193,7 @@ the Doppler velocity measurement will be incorrect.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide27.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide27.png"))
 
 ```
 
@@ -1213,7 +1213,7 @@ and wrapped around to the bottom of the scale.
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide28.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide28.png"))
 
 ```
 
