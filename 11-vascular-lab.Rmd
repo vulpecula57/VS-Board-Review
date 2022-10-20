@@ -16,6 +16,8 @@ imaging would not have been possible.*
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
 
 ```
@@ -70,7 +72,7 @@ within the vessel (Image 1: normal spectrum waveform)
 
 ```{r echo=FALSE}
 
-knitr::include_graphics(rep("images/vasc_lab/Slide2.jpeg"))
+knitr::include_graphics(rep("images/vasc_lab2/Slide2.png"))
 
 ```
 
