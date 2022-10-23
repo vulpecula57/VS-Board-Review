@@ -344,27 +344,13 @@ as good proximal inflow control. You can insert a large thrombectomy
 catheter proximal and inflate the balloon with a three-way stopcock and
 that will afford you inflow control in a pinch as well.
 
-**Say you're having a patient transferred in from the role to to the
+**Say you're having a patient transferred in from the Role II to the
 higher level of care. Do you recommend these patients be heparinized, if
 able, when they have shunts whether arterial or venous**
 
-If they can be, then yes, that's tricky. As you can imagine. And it's
-sort of similar to can one use heparin for the arterial repair itself.
-Uh, and, and that depends upon whether or not there are other. Injuries
-a head injury or torso injury, massive soft tissue bleeding or injury in
-those cases. Uh, you know, I would not shut those, but I would not put
-those patients on heparin, uh, because you, you, you will cause
-bleeding.
+If they can be, then yes. It is dependent on whether there are other injuries to the head, torso, extensive soft tissue, etc. If there is massive bleeding, then the recommendation is to not shunt or put these patients on heparin. 
 
-So our experience is that, uh, the temporary vascular shunts in the
-proximal vessels, above the knee or elbow, those shunts will stay Paden
-without heparin, uh, for, um, you know, four to six hours because
-they're high flow vessels and. Uh, I was once taught that the best
-anticoagulant is flow.
-
-If you have high flow in those larger proximal vessels, the shunts will
-stay patent without heparin. The distal shunts, if they do clot off,
-what we have found is that they don't cause harm when they clot off. You
+The best anticoagulant is flow. If you have high flow in those larger proximal vessels (above the knee or elbow), the shunts will stay patent without heparin (typically for 4-6 hours). The distal shunts, if they do clot off, what we have found is that they do not cause harm when they clot off. You
 basically are just back to square one with the occluded vessel and you
 have to do the thrombectomy, assessment, and repairs.
 
@@ -627,8 +613,6 @@ your own. As a side note, we are also going to skip the management of
 iliac artery injuries as we covered that as part of our peripheral
 vascular trauma session.**
 
-**We are going to start with a scenario.**
-
 **Scenario: "You have a patient with a gunshot wound to the abdomen.
 General surgery has already prepped them from the neck to the knees, and
 performed a laparotomy from the xiphoid to the pubis. They packed the
@@ -724,18 +708,11 @@ do not have to take the time to find the plane above the left kidney.
 
 Check out this [video]( https://www.youtube.com/watch?v=DPxiDYzJwcY) for an example of a left medial visceral rotation
 
-THIS SECTION NOT IN RECORDING AT THIS TIME POINT///**The spleen is
-always bleeding at the end of one of these rotations. Do you have any
-tips on managing bleeding from the spleen?**
+**Management of bleeding from the spleen**
 
-One of the key tenets of splenic injury is exposure. You to to ensure
-that you have good retractiors, your incision is but up to xyphoid and
-alongside the left costal margin with both suspended up. Well I think
-this goes back to I think my initial comments. Many problems and
-difficulties arise from not being able to see well. So the best tip is
-to make sure your exposure is as best as you can make it. If you are
-compromising on exposure, it is a contributor to spenic injury.///END OF
-THIS UNRECORDED SECTION
+One of the key tenets of splenic injury is exposure --- good retraction with incision up to xyphoid and
+alongside the left costal margin. Compromised exposure is a contributor to splenic injury. 
+
 
 **With regard to exposure and eviscerating the bowel, there are some
 nuances. A method includes finding a moist lap pad that is large enough
@@ -905,7 +882,7 @@ Mesenteric Artery (IMA)**
 
 The majority of times, the IMA can be ligated. Prior to ligation, assess
 the patency of the iliac vessels --- specifically the internal iliac
-vessels. Also, if both celiac and SMA are patent then the IMA ligation
+vessels. Also, if both celiac and SMA are patent, then the IMA ligation
 can be tolerated. If there is concern for atherosclerotic disease or
 occlusion in the internal iliacs, then ligation may not be the
 prefferred option and re-implantation may be considered.
@@ -913,119 +890,25 @@ prefferred option and re-implantation may be considered.
 **Techniques of exposing and repairing branches off of aorta: Renal
 Arteries**
 
-It is important to consider whether you are in an elective situation or
-emergent situation. Exposure and communication with anesthesia is
-important.
+It is important to consider the broad principles and approach: 
+1. Urgency of situation 
+2. Optimal Exposure 
+3. Resuscitation Efforts
+4. Communication with Team
+5. Appropriate Equipment 
 
-**Rasmussen:** think that it'sI think that what I'm thinking about in
-that question isIs similar these other vessels that thatand and
-hopefully it's helpful as a broad principle and an approach you knowwe
-started this discussion talking about exposure and making sure
-communicate with anesthesia and you know having the right suction
-devices and retracting devices and headlights in these broad concepts to
-make sure that you you've thought about um going into these casesyou
-know I think um when it comes to the renal arteries like like all these
-festivals um it's useful to think well I'm either in a in a fairly
-elective situation you know meaning I've got things under control for
-the moment Patient's physiology is a [00:45:00] solid um you know
-there's there's whatever bleeding there is is controlled and I I've got
-a reasonable exposure in contrast toI am in a uncontrolled situation and
-there's the patients in a in a really bad situationyou know the bleeding
-is not controlled I don't know where the bleeding is coming from et
-cetera And I think because it helps one toHave a mindset about whether
-I'm pursuing damage control surgery you know am I going to have to how
-how much am I going to work to maintain a patency of this vessel or am I
-going to be more tolerant of litigating it and just as a damage
-controlman over and having to deal with the consequences but recognizing
-I need to do it to say the patient's life So the renal arteries are like
-that I think because it is similar to the SMA it is pretty unlikely in
-the setting of trauma to be reconstructing a renal artery I think that's
-pretty rare in trauma that the kidney the renal artery is
-either[00:46:00] Not injuredyou know not injured And you know there's
-there's hematoma that is from the parenchyma of the kidney or
-surrounding vessels or the renal artery is injured and Broncos you know
-and and And if it's certainly if it's injured in thrombose by the time
-you know an individual gets to it it's probably too late The scheming
-time or mosquito time to the kidney's been too great and there's not
-going to be value of of of trying to reconstruct it in the setting of
-trauma And so if it happens to be an in between and I say well let's say
-that a actually it is one of these cases where you know explore the The
-the zone two hematoma and a is coming from a main renal arterythen you
-know and there's flow in it but it's bleeding Then I think the
-principles that we have described such as either primary repair four or
-five Oh potentially probably in this case maybe a six O monofilament
-sutures such as proline It would be useful if that appears to [00:47:00]
-compromise the lumen andeither a patch angioplasty of that artery or you
-know a bypass But again that is extremely rare in the setting of
-traumayou know if it's going to require more than than a primary
-repairyou know it's I think in my experience equally likely that you
-know you're going to beligating that vessel for damage control
+Decision to maintain patency of a vessel vs. ligation is dependent upon the situation. During damage-control procedures where bleeding is not controlled and location of hemorrhage not known, the inclination is to ligate. The risk is organ ischemia, but the benefit would be patient survival. 
 
-Um but but it's pretty rare to be doing a complex renal artery repair in
-the setting of of trauma similar to the proximal SMA injuries for
-example
+The renal artery is similar to the SMA, unlikely to be reconstructed in a trauma setting. In renal trauma, the renal artery is either not injured (with only injury to renal parenchyma) or renal artery is injured and thrombosed. If renal artery is injured and thrombosed, salvageability is unlikely due to prolonged warm ischemic time of the kidney. Repair of the renal artery would truly occur if there is an expanding hematoma in Zone II that warranted exploration and it was found that the source of the hemorrhage was from an injured renal artery that still has flow. In this case, again, would do primary repair with smaller injuries with a 4-0, 5-0, or even 6-0 monofilament prolene suture. If a primary repair would compromise the lumen, then consider patch angioplasty. However, most commonly, if renal artery is injured it is ligated for damage-control. With regard to incidental CT findings, an intimal flap , fistula, and/or possible pseudoaneurysm of the renal artery, the injury can be observed if there is continued renal perfusion and no flow limitation. If it is a flow limiting injury with more than 50% stenosis caused by the intimal flap, it may be amenable to endovascular placement of bare metal stent to tack down the flap. Distal branch artery injuries can also be managed with endovascular coil embolization. Again, the decision to take the time to coil embolize is dependent on the patient’s current hemodynamics. Most commonly, if there is an expanding hematoma in Zone II and the renal artery/parenchyma is damaged and confirmed as source of hemorrhage, a nephrectomy is warranted and there is no indication for repair. 
 
-It just pretty rare
+**General Guidelines of Penetrating vs. Blunt Retroperitoneal Exploration** 
 
-**Management of Renal Hematomas**
+Zone I hematomas: explore whether penetrating or blunt mechanism.
 
-**Rasmussen:** Right So you know zone two this would be a you know zone
-one or the central dominal hematomas and you know the rules that
-[00:48:00] you're alluding to or that you know almost all or all zone
-one hematomas should be exploredZone two hematomas which are the kidneys
-in the lateral gutters\
-basicallyyou know the the the general rule is that if it's a expanding
-hematoma regardless if the mechanism is blunt or penetrating then those
-hematomas Should be explored in zone two Um the general rule goes as
-most of your listeners know if it's a blunt injury and the zone two
-hematoma is not expanding then that does not need to be exploredIn
-contrast if it's a zone to hematoma from a penetrating mechanism then
-most of the time though than need to be explored even if the hematomas
-is stable Those are the general rules that we we use to guide our
-approach to zone two a retroperitoneal or zone to retroparotoneil
-hematoma So I use those I think that's those are pretty goodYou know I I
-think there are times [00:49:00] when a blunt you know one finds
-themselves in in in in the belly because there was a hemoperitoneum from
-a another injury And and and and there is a blunt mechanism and there's
-a zone two hematoma I have explored those in the past And I think that
-if I don't think those guidelines are meant to be You know a dictums
-that can never beadjusted for an individual case I'm not sure if that
+Zone II hematomas: always explore if penetrating, do not explore during blunt unless expanding. Kidneys are in Zone II and are in the lateral gutters. 
 
-**Kevin:** So one question I know a lot of times many of these cases we
-don't already have the laparotomy performed Um you know they're in the
-trauma Bay They get a CT scan and they they call and say there's an
-intimal flap There's a fistula maybe a pseudo aneurysm and the renal
-artery any kind of general principles for some of these sort of
-incidental findings
+Zone III hematomas: always explore if penetrating, do not explore during blunt unless expanding.
 
-**Rasmussen:** and I think that's a that's probably a so what you
-described there is is the most obviously I guess the most common
-scenario in which which which it's a The CT finding you know right in or
-just after the resuscitation room of a of a of a main [00:50:00] renal
-artery injury branch renal artery injury or maybe you know parenchymal
-injury to the kidneyand in those casesI think if the let's say it's the
-intimal flap that you described If the intimal flap is Either not Mateen
-and there's perfusion in the kid on that CT scan for exampleand it does
-not appear to be flow limiting then that can be observed some of those
-like other blond arterial injury some of those will healif it is
-amenable to an endovascular placement of a bare metal stent that Can be
-used in some institutions to tack downor stabilize that detection Um and
-that will be if if if you really feel like it is a flow limiting more
-than 50% stenosis caused by that intimal flap the more distal branch
-artery injuries can often also be managed with endovascular techniques
-such as [00:51:00] coil embolization Replacement of an occlusive you
-know hemostat coil or other deviceand I think coil embolizing or or or
-treating those depends uponyou know how the patient is doing how much
-blood they're requiring how large the hematoma isand then what their
-hemodynamics arebut I think for those reasons what we described five or
-10 minutes ago um having to fix these main these these renal artery
-injuries in the ORs pretty uncommon because they've either been
-diagnosed and managedbased off CT with or without endo Endovascular
-technologies and oftentimes the management of a renal artery injury If
-you're in the or exploring and expanding you know hematoma and one of
-the zone twos is is going to be nephrectomy you know because it's it's
-that major injury in which there's just not there's not the [00:52:00]
-indication for repair
 
 ## Abdominal Venous
 
@@ -1037,29 +920,6 @@ Rasmussen, MD*
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Venous_Auphonic.mp3")
 
 ```
-
-**Kevin:** [00:00:00] welcome back to another collaboration between
-behind the knife and audible bleeding Today we're going to be covering
-vascular trauma with our host Dr. Todd Rasmussen I'm sorry with our
-guest Dr. Todd Rasmussen Dr. Rasmussen is a Colonel the United States
-air force and professor of surgery and Associate Dean of research at the
-uniform services university of health sciences and an attending vascular
-surgeon at Walter Reed national military medical center A couple of
-weeks ago he helped us out with the peripheral vascular trauma and today
-he's going to take us through abdominal vascular trauma thank you dr
-recipes for joining us again on this collaborative podcast
-
-**Rasmussen:** You bet Thank you for the opportunity and the
-congratulations to you and your team on creating such a useful
-information sharing venue So I'm pleased to be with you[00:01:00]
-
-**Kevin:** Absolutelyand we also have a ad hum A muesli on the podcast
-He's a chief resident at Cornell and a one of the team members of
-audible bleeding So welcome
-
-Adam
-
-**Adham:** Yeah Thanks I'm excited to be here for this one
 
 **Kevin:**so for the sake of time we're going to skip the preoperative
 workup and description of anatomy and zones of abdominal vascular trauma
@@ -1952,155 +1812,31 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Cerbrovascular_Trauma_au
 
 ```
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** [00:00:00] Okay,
-and welcome back to behind the knife and audible bleeding vascular
-trauma podcasts with our guest, Dr. Todd Rasmussen. Dr. Rasmussen is a
-Colonel in the United States air force, and he's a professor of surgery
-and associate Dean of research at the uniform services university of
-health science and an attending vascular surgeon at Walter Reed.
+**Tenets of Cerebrovascular Injury** 
 
-National military medical center. We're continuing our [00:01:00] series
-today on vascular trauma. He is the editor of the riches vascular
-trauma, and he's been gracious enough to join us and help us, , dive
-into these discussions. Um, and today we actually have, , one of my
-co-fellows and audible bleeding host, , Nicole Rich, , Nicole, thanks
-for joining.
+1.	Control of catastrophic bleeding --- with manual compression and resuscitation
+2.	Ensure that injury is not causing airway compromise 
+3.	Evaluate the neurological status of patient --- have a thorough baseline neuro exam and look for signs of ischemia, hemispheric stroke, arousability/mental status
+4.	Prevent secondary injury --- maintain blood pressure to maintain cerebral perfusion pressure and prevent hypoxia 
 
-**ringr_116213_115337_host.individual:** Thanks for having me.
+**Blunt Carotid Injury Patterns**
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Um, all right,
-Dr. Rasmussen, , welcome back to audible bleeding.
+-	Mechanism of Injury: history of a motor vehicle collision, blunt force to neck, severe hyperextension, etc. 
+-	External signs of injury: marks on neck or around the thoracic inlet (ie “seatbelt sign”)) 
+-	Unilateral  neurodeficits --- could suggest hemispheric ischemia or stroke (less common, but possible) 
+-	Accompanying Injuries: concomitant closed head injuries (TBIs), complex facial fractures, cervical vertebral body and transverse foramen fractures
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Thanks a lot
-for having me. I'm looking forward to, , to the discussion.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** So we just want
-to start with some of the basics here. Um, for the tenants of managing
-patients with suspected cerebrovascular injuries, um, what are some of
-the principles we have to keep in mind when we, when we're called the
-trauma Bay on a patient like this.
+**Blunt Carotid Injury Classification System and Management** 
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Well, I think
-that, , there's, there's some, , of the key tenants that are very much
-alike. I'm with the tenants of vascular injury, , and other anatomic
-locations. Um, and then there's, there certainly are some unique facets
-to cerebrovascular injury. That are different, , than, than other,
-anatomic regions.
-
-So, you know, I [00:02:00] think to begin with, um, the key tenants that
-are, that are similar relate to, , bleeding control. So that if, , if it
-is , in the cervical region or the region of cerebrovascular, , ,
-trauma, there's active bleeding then, then of course, that, . , from the
-vascular injury, then that takes precedent that we have to take measures
-either with manual compression or, , other, other mechanisms to control
-the bleeding and resuscitate the patient.
-
-I think unlike other, um, vascular injury, , patterns, cerebrovascular
-injury, or cervical, , vascular injury in the cervical region also, ,
-can quickly compromise the airway. And so I think, . You know, those
-making sure that there's control of, of, of catastrophic bleeding, , and
-then making sure that, , that the vascular injury is not immediately
-compromising the airway or are our two tenants that are
-
-common with other vascular injury patterns and one is unique to this
-area.[00:03:00] Um, and then I think also unique to this areas is, um,
-the, the neuro status of the patient. , is the patient, um, awake or
-Tundra or asleep, or is the patient awake? And does the patient have,
-um, signs of hemispheric. stroke, , or ischemia.
-
-Um, and I think depending upon, , the injury pattern and the, the
-overall status of the patient, making a, , an assessment and being
-particularly aware of the patient's neuro status, , in, in these
-anatomic region is very important.
-
-**ringr_116213_115337_krkniery_gmail.com.individual:** Definitely. So,
-um, to highlight is in these patients, we want to prevent secondary
-injury. Um, so, um, if they have a brain injury, um, we're going to. Do
-everything we can to keep their blood pressure, prevent hypotension,
-prevent hypoxia. And then like dr Rajistan and said, we really need to
-make sure we have a good neuro exam.
-
-as soon and as good of a neuro exam is as possible. Um, and I know the
-situation's very, um,
-
-**ringr_116213_115337_host.individual:** . So Dr. Rasmussen, can you
-talk to us about what types of patients and what patterns of injuries
-[00:04:00] should. , Clewis into a potential for blood carotid injury
-when we should have a high index of suspicion.
-
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Sure. I think
-there, um, certainly are on the physical exam. , there are, there are
-findings that will cue the provider, , to the high suspicion for, um. A
-blunt carotid injury, um, most commonly is some sort of external Mark on
-the neck, , or, , around the thoracic outlet of, , of the patient. Um,
-for example, a seatbelt Mark, um, , or some sort of a choke Mark or
-such.
-
-So if there's external signs of injury, um. , around the, the color
-region of the cervical region of the patient. That certainly should cue,
-, the provider end. I think there's, there are, um, , I think other
-findings on physical exam, um, if the patient is, has unilateral, ,
-signs that suggest hemispheric ischemia or a stroke, um, I think that is
-uncommon.
-
-But I think that obviously. , if the patient's awake enough and is
-demonstrating, um, um. Um, demonstrating physical [00:05:00] findings
-that suggest a hemispheric aschemia or stroke. I think that certainly is
-another, , another, um, finding that would cue someone in, , to looking
-more closely for, , a blunt carotid injury.
-
-I think the, the types of injuries, mechanisms of injury, I think I
-mentioned the seatbelt injury, I mean, a car accident. Um, for, um, is,
-is, is kind of a typical, , or common injury pattern in civilian
-settings where, um, you know, the, the seatbelt itself has caused a, um,
-, a blunt injury, , after or during a car accident.
-
-So I think that is a mechanism of injury that should also, cue someone
-in.
-
-**ringr_116213_115337_krkniery_gmail.com.individual:** Yeah, and I think
-for the behind the knife listeners that are listening, um, it's really
-important to have this high index of suspicion because if you guys don't
-identify these as the trauma surgeons, as the general surgeon on call,
-these patients can have devastating outcomes. So really being. Alert and
-aware for these patients with complex facial fractures, these closed
-hit, closed head injuries, and the seatbelt signs can really save lives
-and get the [00:06:00] appropriate imaging to help rule in or out a a
-carotid injury.
-
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** You know, you
-mentioned, um, TBI or head injury, and I think that is, that's another
-obviously very common. Mechanism and unis blunt. Carotid injury is
-pretty rare. Um, I think as vascular surgeons or vascular. Trauma
-specialists, we tend to see them more frequently cause we get called. ,
-but for, for, um, those providers who are in the emergency department, ,
-or are seeing you know, all forms of trauma and presentation.
-
-I think a TBI, traumatic brain injury, um, , head injury and then
-complex facial fractures, those, as you alluded to, are. You know, our
-injury patterns where when you're looking both in examining the patient,
-but then, you know, these days in particular, when you get the CT scan,
-really paying attention to, you know, the cervical vasculature is, is,
-is particularly important.
-
-**ringr_116213_115337_host.individual:** Great. And then just a couple
-other injuries that keep in mind for this type of, um, presentation as
-[00:07:00] well would be , cervical vertebral body fractures or
-transverse foramen fractures. And then also just in patients who've had
-severe hyperextension rotation, reflection injuries of the neck.
-
-Okay, great. So how do we classify and think about treating injuries
-with, um, blunt credit injuries? What's our grading system and how does
-that dictate how we manage these.
-
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Well, I think
+Well, I think
 that as we think about this one thinks about, the anatomy of the vessel
 wall, the arterial wall. that helps us conceptualize the degree or the
-severity of, of these blood carotid injuries. They can be, um, as simple
-as a, as an intimal tear, , where, um, you know, it is, the intimate has
+severity of, of these blood carotid injuries. They can be,  as simple
+as a, as an intimal tear, , where,  you know, it is, the intimate has
 been raised off of the media and it creates a minor flow defect.
 
-, which may be prone to platelet aggregation. Um, but it's, it's not a,
+, which may be prone to platelet aggregation.  but it's, it's not a,
 , a long dissection and it's, it's not a flow limiting defect, and that
 is the [00:08:00] most minor. , and then of course, the most severe on
 the other end of the spectrum is a blond carotid injury. That's resulted
@@ -2111,15 +1847,15 @@ has created a longer this section that is, that is now thrombosed and
 occluded the vessel.
 
 And then there's the degrees of injury between those two extremes where.
-There can be a longer does section, um, that, has thrombus associated
-with it and is visible on the cat scan or the imaging modality, um, and
-or, um, a dissection that can be flow limiting the defect that can be
+There can be a longer does section,  that, has thrombus associated
+with it and is visible on the cat scan or the imaging modality,  and
+or,  a dissection that can be flow limiting the defect that can be
 flow limiting.
 
 They may not have thrombus and it, or B along the section, but it, but
 it is in itself flow limiting, meaning that it. It's, , compromises
 greater than 50%, for example, [00:09:00] of the, of the lumen of that
-pestle. So, you know, the, the varying degrees of severity, um, you
+pestle. So, you know, the, the varying degrees of severity,  you
 know, with our imaging technologies today, mostly CTA, it is possible to
 pick up, you know, or is.
 
@@ -2128,27 +1864,27 @@ from a, again, from a real mild intimal defect that's not flow limiting,
 that has no thrombus all the way to the more obvious, , you know, , ,
 injury where there's complete thrombosis.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Is there any role
+**:** Is there any role
 for ultrasound, , in addition to CTA, if you do see some sort of intimal
 flap, , to maybe see the, if there's any hemodynamic impact of it, or is
 it. Does CTA give you the information that you need.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** I think
+I think
 that's a really good point. I love, I really like ultrasound. I think
-you alluded to this, um, with your comment, you know, CT gives you,
+you alluded to this,  with your comment, you know, CT gives you,
 gives one a static image. , it's often quite detailed and, , boy, I
 really also think that CTA [00:10:00] is, I mean, in many ways it is the
 gold standard, but it is a static image.
 
 Yeah. In contrast, duplex ultrasound, which combines B mode, you know,
-ultrasonography with POLST Doppler , gives one a real dynamic, um,
-assessment of the area of interest. Meaning is, is the, um, is there, I
+ultrasonography with POLST Doppler , gives one a real dynamic, 
+assessment of the area of interest. Meaning is, is the,  is there, I
 mentioned the word flow limiting is, is there a elevated velocity and a
 detriment in, in, in.
 
 Or a change or a difference in the velocities around that area. So I
 think, I think you can get a lot of information with duplex though. Of
-course, the limitation with duplex, and we may talk about this, um, when
+course, the limitation with duplex, and we may talk about this,  when
 we talk about the different zones of. Of of, of neck injury, you know,
 the, the limitation with duplex is it, it you cannot see above the angle
 of the mandible.
@@ -2159,47 +1895,47 @@ cannot see, you know, proximal to the thoracic outlet. [00:11:00] So,
 you know, there is a limited window in which duplex is useful. But, ,
 but in that window, I think it gives really important information.
 
-**ringr_116213_115337_host.individual:** That's a great point. So going
+**That's a great point. So going
 back to the grading of the injuries, , Dr. Rasmussen, you described to
 us a grade one and grade two injuries, which involve intimal injuries, ,
 less than 25% in grade one or grade two with a greater than 25% luminal
-narrowing. Um, can you talk about the management of grade one and two
+narrowing.  can you talk about the management of grade one and two
 injuries.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, I think
+Yeah, I think
 I'm grade one and grade two injuries. Um. Most of the time are managed
 non-operatively and can be managed expectantly with, , use of
-antiplatelet therapy, potentially anticoagulation. Um, depending upon,
-um, the patient's global burden of trauma. Do they have an associated
+antiplatelet therapy, potentially anticoagulation.  depending upon,
+ the patient's global burden of trauma. Do they have an associated
 TBI? Do they have other, other injuries?
 
-But. Um, if, if there are, if the patient is [00:12:00] neurologically
-intact, um, and a grade one or grade two injury is seen on imaging, um,
+But.  if, if there are, if the patient is [00:12:00] neurologically
+intact,  and a grade one or grade two injury is seen on imaging, 
 and the patient is able to have anti-platelet or anticoagulation
 therapy, then those, those types of great injuries, grade one and grade
 two are managed. Non-operatively, , with, , I guess you'd say medical
 management.
 
 If the patient changes, meaning that he or she was initially
-neurologically normal, um, and medical management is initiated and then
+neurologically normal,  and medical management is initiated and then
 the patient changes has hemispheric symptoms indicating that your
 medical management is failing. Then that is a situation where, , an
-intervention is, is this likely to be needed or would be indicated, um,
+intervention is, is this likely to be needed or would be indicated, 
 if that makes sense.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** That drives me is
-to have a question. Um, have you ever been in a situation where you have
+**:** That drives me is
+to have a question.  have you ever been in a situation where you have
 a grade one or two injury, but a [00:13:00] patient that you're unable
-to get a neuro exam on? Are we obligated to, um, ask for things such as
+to get a neuro exam on? Are we obligated to,  ask for things such as
 transcranial Doppler or EEG or, or, or something to prove that there's
 no injury from that or, you know, what are your thoughts on a situation
 like that?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Great
+Great
 question, and I think I'm. I'll probably use this phrase multiple times
-in this discussion. Is it? It depends, um, partly it depends on what
+in this discussion. Is it? It depends,  partly it depends on what
 modalities, one has available to them in their institution, but I think
-the answer to that, if I could, um, if I come down from on it, is, no,
+the answer to that, if I could,  if I come down from on it, is, no,
 you're not obligated.
 
 I think it's a luxury. , that some places may have that if you have
@@ -2208,7 +1944,7 @@ sort of a luxury in your diagnosis, but I don't think that's really
 necessary. I would mostly treat them, as I said, with medical management
 and then imaging, serial [00:14:00] imaging, both.
 
-Of their neck and, of their brain. Um, and I think in a way, and then
+Of their neck and, of their brain.  and I think in a way, and then
 you mentioned it earlier, Kevin, I thought that was really important. ,
 supportive measures, like preventing, secondary injury, you know, which
 means optimize the profusion pressure to the brain. , try to avoid or
@@ -2217,23 +1953,23 @@ and, and such.
 
 So I don't think you're obligated to get those things. I think that
 things like EEG, transcranial Doppler are more in the category of a
-luxury if you have them. Um, but otherwise I would manage with a serial
+luxury if you have them.  but otherwise I would manage with a serial
 imaging.
 
-**ringr_116213_115337_host.individual:** So Dr. Rasmussen in a patient
-who remains neurologically intact and you plan to, um, that medically
+**So Dr. Rasmussen in a patient
+who remains neurologically intact and you plan to,  that medically
 manage and do serial imaging, what's the best timing for repeat imaging?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, that's
-a great question. And I, I think, um, for, um, for patients that we
+Yeah, that's
+a great question. And I, I think,  for,  for patients that we
 manage and in my experience, we manage, we at least image him twice in
 the hospital. While they're an [00:15:00] inpatient. So, , to make sure
 that they're not changing or evolving, you know, in the acute phase of
-their injury. So, um, you know, if, , if, .
+their injury. So,  you know, if, , if, .
 
-The typical patient is someone with a, you know, with a blunt, um, head
+The typical patient is someone with a, you know, with a blunt,  head
 injury and they have a finding at the time of, , of a grade one or grade
-two carotid injury. Um, we get the CT at the time. They're admitted to
+two carotid injury.  we get the CT at the time. They're admitted to
 diagnose it. We follow them, you know, over the course of three or four
 or five days as they recover from their injury.
 
@@ -2246,8 +1982,8 @@ significant.
 
 So I think the initial scan on admission, of course, and then within the
 first seven days to make sure they've not, that injuries not evolving.
-Um, [00:16:00] and then typically after that, I think, again, it depends
-on. Um, sort of the severity and how the patient's doing, but probably
+ [00:16:00] and then typically after that, I think, again, it depends
+on.  sort of the severity and how the patient's doing, but probably
 at a month after discharge from the hospital and then most of them will
 heal.
 
@@ -2255,14 +1991,14 @@ heal.
 need followed, , to the point of resolution or healing as an outpatient.
 , usually with CT scans or CTA.
 
-**ringr_116213_115337_host.individual:** Okay, great. And series of
+**Okay, great. And series of
 these patients have shown that 60% of them will have their injuries
 devolve or change in greater severity in this period. Is the pattern
 that you see typically that they tend to improve over time?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Well, I think
-the, um, I think the grade, you know, the grade ones, , I think they do.
-Um, they're, those are the ones where that's a minor or limited intimal
+Well, I think
+the,  I think the grade, you know, the grade ones, , I think they do.
+ they're, those are the ones where that's a minor or limited intimal
 disruption. A small intimal flap that. that is not flow limiting. It's
 not associated with thrombus or platelet aggregation or thrombus.
 
@@ -2280,35 +2016,35 @@ it's evolving, then by all means then that that needs then more
 intensive imaging and likely if it's evolving into something more
 significant, it needs an intervention.
 
-**ringr_116213_115337_host.individual:** Okay, so a pseudo aneurysm is
+**Okay, so a pseudo aneurysm is
 what we consider grade three. what is your approach to managing a pseudo
 aneurysm of the carotid?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, so I
-think the, the suitor aneurysms [00:18:00] of the carotid, um, you know,
-that in a way it depends. It's influenced certainly on, um, the
+Yeah, so I
+think the, the suitor aneurysms [00:18:00] of the carotid,  you know,
+that in a way it depends. It's influenced certainly on,  the
 patient's neuro status or the location of the pseudo aneurism. And then
-I think the expertise of, of the team that's managing the patient. Um,
-but I think that the pseudo aneurysms, um, all of them, no matter what
-size they, they need to be treated, they, they require, um, you know,
-um, they require an intervention to fix them.
+I think the expertise of, of the team that's managing the patient. 
+but I think that the pseudo aneurysms,  all of them, no matter what
+size they, they need to be treated, they, they require,  you know,
+ they require an intervention to fix them.
 
-Um, there certainly are some patients who, um. Who's you know, have a
+ there certainly are some patients who, um. Who's you know, have a
 high mortality. They, they're, they're, they're quite ill or have a
 high, high injury severity score. They may not make it. There's some
 patients that one may pass and not fix a pseudo aneurysm or grade three
 entry, but by and large, most do because the pseudo aneurysms will.
 
-, will, um, they will not go away. Then they're likely to get bigger and
+, will,  they will not go away. Then they're likely to get bigger and
 become associated with either expansion and mass effect or bleeding or
-thrombus formation, stroke. Um, so, um, the, the ways to treat them, I
+thrombus formation, stroke.  so,  the, the ways to treat them, I
 think are [00:19:00] these days primarily with endovascular techniques
 that include covering, , the pseudo aneurysm with a small coverage
 stent.
 
 Or what we'd call a stent graft, a small covered stent to seal the, the
 opening of the pseudo aneurysm. You know, there are some reports and
-experiences using what we call a bare metal stent, um, through which
+experiences using what we call a bare metal stent,  through which
 coils can be placed to thrombose the pseudo aneurysm to cause it to
 clot. And then the bare metal stent then, you know, maintains the
 integrity of the wall.
@@ -2320,30 +2056,30 @@ are performed most commonly through a transfemoral approach, an RJ order
 gram, and then selection of the.
 
 of the [00:20:00] effected carotid artery and then placement of the, of
-the endovascular treatment. Um, I think those, these days are probably
-the most common. Certainly if, it is, um, in, you know, in zone two of
+the endovascular treatment.  I think those, these days are probably
+the most common. Certainly if, it is,  in, you know, in zone two of
 the neck, and we can talk about that a little bit. , and it's amenable
-to an operation. Um, there's another indication for an operation in that
+to an operation.  there's another indication for an operation in that
 area than, than certainly open repair of the pseudo aneurysm can also
 be.
 
 Undertaken, but I think more commonly these days for grade two injuries,
 they're managed with an endovascular technique.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** In your book,
-it's mentioned that, um, considering waiting seven days to decrease
+**:** In your book,
+it's mentioned that,  considering waiting seven days to decrease
 neuro events, , what's the thought behind this?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah,
+Yeah,
 definitely. I think that, if a patient, um. You know, Harrigan, it
 depends. I think that it depends on the patient. There are some patients
-who just are in no shape to undergo. Um, you know, , , an intervention
+who just are in no shape to undergo.  you know, , , an intervention
 such as this in the acute, , in the acute setting, the first two or
 three days and, and certainly in those patients waiting is, is just, you
 don't have a choice.
 
-You need to wait. I think Yeah. If the patients, um, [00:21:00] you
-know, are awake, let's say they're awake and otherwise normal, um, you
+You need to wait. I think Yeah. If the patients,  [00:21:00] you
+know, are awake, let's say they're awake and otherwise normal,  you
 know, in those patients, if they're, if it's a pseudo aneurysm, the
 patient's awake and, , able to be examined. I, I often don't wait seven
 days. I think the waiting period probably more pertains to patients with
@@ -2354,7 +2090,7 @@ I think if it's more. A cut and dry, the patient's awake, , able to be
 examined. They're out of the unit. , then I don't wait necessarily seven
 days.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Got it. So, , for
+**:** Got it. So, , for
 the grade four injuries, , the occlusions, we just do medical management
 for these patients if they're already included. can you just talk to us
 briefly about, how you decide on medical management, whether you were
@@ -2362,32 +2098,32 @@ using anti-platelets or dual anti-platelets or anticoagulation?
 
 How do you go about this?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. So this
-is really, um, an area where it is, um, you know, we don't have a lot of
+Yeah. So this
+is really,  an area where it is,  you know, we don't have a lot of
 good, we don't have really any good data. We have. [00:22:00] Really
 good clinical experiences by a lot of expert groups, but we don't have a
-lot of, um, prospective data or level one data that guides our
+lot of,  prospective data or level one data that guides our
 management in these cases.
 
-Um, and so I think, um, patients with occluded, let's say a blunt
-carotid and secluded grade for injury, um, patients who do not have
+ and so I think,  patients with occluded, let's say a blunt
+carotid and secluded grade for injury,  patients who do not have
 associated injuries or conditions. That preclude the use of
 anticoagulation, then I will use the anticoagulation. We'll, we'll give
-them, , intravenous heparin, um, and, um, monitor them with repeat
-imaging and obviously, um, monitor them to make sure they're not over
+them, , intravenous heparin,  and,  monitor them with repeat
+imaging and obviously,  monitor them to make sure they're not over
 anticoagulated in pain.
 
 And that tends to be the exception because many of these patients have
 polytrauma, so they have an associated TBI. Or other body regions that
 have been severely injured. So that anticoagulation is not an option.
 And in those cases, , we are really left with using, um. , [00:23:00] an
-antiplatelet like, um, clopidogrel or aspirin.
+antiplatelet like,  clopidogrel or aspirin.
 
 In those cases, I'll often use both, , dual antiplatelet therapy,
 clopidogrel and aspirin. And these are in patients who cannot receive
-full anticoagulation because of other injuries. Um, one point there, I
+full anticoagulation because of other injuries.  one point there, I
 think if, if one's going to use anticoagulation, and I think this group,
-Um, you know, Kevin, you and Nicole are, and those of us who get called
+ you know, Kevin, you and Nicole are, and those of us who get called
 frequently for bleeding complications are sensitive to this.
 
 But in these, these patients, we're going to use anticoagulation on for
@@ -2405,24 +2141,24 @@ PTT of 50 to 70 and in the first 24 hours, I often will say 50 is better
 than 70 because these patients with this type of trauma are just prone
 to bleed.
 
-Um, and then work up slowly to therapeutic anticoagulation without
-boluses. Um, and again, these are patients that they use the
+ and then work up slowly to therapeutic anticoagulation without
+boluses.  and again, these are patients that they use the
 anticoagulation and the don't have on the, they shouldn't have other
 major injuries. So then they get transitioned to an oral anticoagulant
 for, 30 to 90 days.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** That's a really
+**:** That's a really
 good point.
 
-**ringr_116213_115337_host.individual:** Okay, great. So why don't we
-move on to discuss blend for tibial artery. Injuries, um, Dr. Rasmussen,
+**Okay, great. So why don't we
+move on to discuss blend for tibial artery. Injuries,  Dr. Rasmussen,
 when you're assessing a patient's imaging who is presenting with a
 trauma and a blunt vertebral artery injury, what are the kinds of things
 that you look for in terms of the dominance of the vertebral,[00:25:00]
-um, and how that affects your management?
+ and how that affects your management?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, good
-point. And you've used. Kindly, , , tips, um, pointing me in the right
+Yeah, good
+point. And you've used. Kindly, , , tips,  pointing me in the right
 direction. I think it, depends upon, you know, one of the main things
 is, , well, first of all, starting with a physical exam, and as we've
 mentioned, you know, how, how is the patient, when you first assess
@@ -2432,11 +2168,11 @@ No signs of bleeding in the neck, airway compromise, et cetera. But
 then, you know, quickly with these patients, and to your point, you get
 to the imaging and, and I think one of the key things is it, which
 vertebral, is it the dominant vertebral artery that is affected? Or is
-it the diminutive, um, for TBL? Or, or maybe you can't tell.
+it the diminutive,  for TBL? Or, or maybe you can't tell.
 
-Um, but I think that is important. Um, and then I think, It's similar in
+ but I think that is important.  and then I think, It's similar in
 some ways to the carotid injuries. It's the severity of that vertebral
-injury, both its location, um, anatomically which of the vertebral
+injury, both its location,  anatomically which of the vertebral
 segments. And then, you know, what is the, what is the severity of the
 injury?
 
@@ -2449,7 +2185,7 @@ that I try to go through in my mind.
 Um. As I look at the imaging, you know, one thing that's important to
 mention, and we were just talking about this with one of our residents
 or trainees, , last week we did a first rib resection and talked about,
-um, the severity of, of impact that it takes to make these create these
+ the severity of, of impact that it takes to make these create these
 sorts of sorts of injuries.
 
 You know, I think. What I would say is yes, be focused on the vertebral
@@ -2463,22 +2199,22 @@ at their imaging with regards to the vertebral, but also be aware that,
 , they often have other injuries that you need to open the aperture to
 see.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** That's great.
+**:** That's great.
 from my experience, , most of these injuries of the routine rules are
-managed non-operatively or occasionally with embolization, maybe, um, by
+managed non-operatively or occasionally with embolization, maybe,  by
 neuro, I R. unless there's maybe a pseudo aneurysm, and per your book,
 90% of these stenotic lesions will resolve. Um. Is that the experience
 that you have to,
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yes. And I
+Yes. And I
 think the, you know, this, they fall into a similar management pattern,
-is the blunt carotid injuries. Um, maybe not quite the same because
+is the blunt carotid injuries.  maybe not quite the same because
 their natural history is a little different, but, but I think the, you
-know, as far as serial imaging, um, management with, , either expectant
+know, as far as serial imaging,  management with, , either expectant
 medical management for burn for those that are, that are less severe,
 and then endovascular management.
 
-Um, with those that are more severe, I think, you know, in a way, they
+ with those that are more severe, I think, you know, in a way, they
 do fall into a [00:28:00] similar management pattern. And yes, , the
 majority of those that, , that are low grade do resolve for or become
 asymptomatic over the long period. Meaning they may, the receivable may,
@@ -2488,36 +2224,36 @@ Stroke. It just, depends, you know, but many of the smaller injuries
 certainly do resolve over time. , and, and that can be seen with the
 serial imaging approach that we've already talked about.
 
-**ringr_116213_115337_host.individual:** So Dr. Rasmussen, um, Kevin
+**So Dr. Rasmussen,  Kevin
 mentioned that a lot of these vertebral injuries, especially if they're
 kind of high up. In the neck or the skull base are managed by neuro IRR
 or conservatively, but if you need to expose the proximal vertebral
 artery in the neck, what's your approach for that surgically.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Right? So
-that's a, that is exposed through a supraclavicular incision. Um, and
-for those who have, um. Looked at up or [00:29:00] performed, um, a
+Right? So
+that's a, that is exposed through a supraclavicular incision.  and
+for those who have, um. Looked at up or [00:29:00] performed,  a
 carotid subclavian bypass, for example, or the, the exposure of the
 subclavian artery. Most mostly that exposure, or most commonly that
 supraclavicular incision is, is described for exposure of the, the, of
 the subclavian artery.
 
-Um, but through that same supraclavicular exposure, um. No, the
+ but through that same supraclavicular exposure, um. No, the
 vertebral artery can be found a little bit more proximal on the
 subclavian artery. So that's, that's sort of the, that's the, that's the
-incision or approach. Um, and you know, it depends upon the, you know,
-one, um, you know, what one is operating for, if it's, if it's for, for
+incision or approach.  and you know, it depends upon the, you know,
+one,  you know, what one is operating for, if it's, if it's for, for
 bleeding and the intent is to, to control bleeding or ligated, that's
 actually most commonly.
 
 The case, I mean, is, is that, , you know, that exposure is then used
-because it's a hematoma and, and there's, , there's bleeding. Um, you
-know, then the intent is to expose, , um, the, the vertebral is, it
+because it's a hematoma and, and there's, , there's bleeding.  you
+know, then the intent is to expose, ,  the, the vertebral is, it
 comes off of the, the subclavian and to [00:30:00] litigate it, it's
 rare that one would be repairing or trying to restore flow in the
 setting of trauma.
 
-Um, to the vertebral artery, you know, through that incision. We don't
+ to the vertebral artery, you know, through that incision. We don't
 really typically do for Teebo reconstructions for trauma. typically if
 you're doing it through an open operation, it's really to control
 bleeding and, and, , probably gonna end up lying eight in it, just
@@ -2525,25 +2261,25 @@ because a re implanting the vertebral, you know, on the common carotid
 or doing some sort of achievable reconstruction is just not well suited
 for for the trauma situation, if that makes sense.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Yeah. And one
+**:** Yeah. And one
 quick thing before we move on, I just wanted to touch you on a paragraph
-that I took from your book. Um, that I think is really important because
+that I took from your book.  that I think is really important because
 we don't do. Artery exposure as much. I've only really done one in
 fellowship. I've been a lot of credit subclavians where I see it, but an
 actual exposure for TB and your book, it mentions you go in between the
 two heads of the SCM.
 
-Um, you open up the credit chief and you retract the carotid
+ you open up the credit chief and you retract the carotid
 immediately, and this will you, then you'll be able to identify this is
 a critical [00:31:00] structure of the vertebral vein, which directly
 posterior, which is directly posterior to the carotid. And this
 vertebral vein is sort of a landmark that helps you identify the
 vertebral artery and the proximal subclavian artery.
 
-And the one of these that I've done that was exactly the, um, anatomic,
+And the one of these that I've done that was exactly the,  anatomic,
 exposure
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. Good
+Yeah. Good
 point. We didn't tie, I didn't talk about the anatomy or the specific
 anatomical aspects. That's exactly right. I mean, I think one of the
 things, a couple of things that are useful in addition to to the
@@ -2552,124 +2288,124 @@ head and the clavicular head of the sternocleidomastoid, you know, and
 trying to find it really in a lot of ways, you can go between those two
 heads of the sternocleidomastoid.
 
-Um, and it's in that sort of, that groove there where one can, um, and,
+ and it's in that sort of, that groove there where one can,  and,
 and oftentimes that's just a, I mean, it is, there's an open plane there
 between the, and if you can look at your anatomy book, kind of get that
 out and see the. The sternal head and the clinic killer had, , really
-the window there, um, lead you then, you know, to that area where
+the window there,  lead you then, you know, to that area where
 posteriorly, there [00:32:00] will be the, the vertebral artery will
 come off.
 
-And so claiming, um, you know, you can feel the carotid, um, and it's
-just beyond, um, it's just beyond the takeoff, at least on the right is
+And so claiming,  you know, you can feel the carotid,  and it's
+just beyond,  it's just beyond the takeoff, at least on the right is
 just beyond the takeoff of the carotid artery.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Great. And now
+**:** Great. And now
 that we're kind of talking about operations and we're going to keep
 diving into penetrating injuries of the neck. So dr , we just want to
 just kind of start with some of the basics, , when we're talking about
 the zones of the neck, , and, and what are the anatomic considerations
 of each of these zones.
 
-Um, can you just tell us what zone one is and kind of what you're
+ can you just tell us what zone one is and kind of what you're
 thinking of if you hear of a vascular injury in this area?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, so, you
-know, so zone one, so the zones of the neck, you know, really, um, refer
-to the, um, the anterior, um, aspects of the neck. Um, and so the, the
+Yeah, so, you
+know, so zone one, so the zones of the neck, you know, really,  refer
+to the,  the anterior,  aspects of the neck.  and so the, the
 sort of the anterior triangles of the neck, and, um. The zone one really
-is, is the most proximal. It's the inferior, , aspects of the, um, , of
+is, is the most proximal. It's the inferior, , aspects of the,  , of
 that, of that.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** So doctor asked
+**:** So doctor asked
 me, he said, I think we're going to dive now into penetrating carotid
 trauma and start with sort of the basics, , diving into the zones of the
 neck and some of the things you take into consideration with each of
 these zones in the neck as far as getting control.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** So um, the
-zones of the neck, um, that are, have been used to help us
-conceptualize, um, you know, penetrating injury mostly. . Oh, really?
+So  the
+zones of the neck,  that are, have been used to help us
+conceptualize,  you know, penetrating injury mostly. . Oh, really?
 Apply to the anterior portion of the neck. , kind of the anterior
-triangle of the neck. Um, zone one is, is the, is the, , is the sort of
+triangle of the neck.  zone one is, is the, is the, , is the sort of
 the first and the most, I guess.
 
-Um, proximal zone, and it's really defined, um, by the sternal notch to
+ proximal zone, and it's really defined,  by the sternal notch to
 the cricoid cartilage. So it's a tight or narrow zone that really
-involves the thoracic outlet. Um, zone two is the cricoid cartilage to
-the angle of the mandible, which is, um, sort of the largest of the, of
+involves the thoracic outlet.  zone two is the cricoid cartilage to
+the angle of the mandible, which is,  sort of the largest of the, of
 the three zones, , in the [00:33:00] neck, the intern neck.
 
 And then zone three is from the angle of the mandible to the base of the
-skull. Like, zone one's on three's pretty tight. Um, there's not a lot
-of space there. Um, and those zones, um, I think are useful and that
-have been described. , there was original paper led by, um, dr rune, R
+skull. Like, zone one's on three's pretty tight.  there's not a lot
+of space there.  and those zones,  I think are useful and that
+have been described. , there was original paper led by,  dr rune, R
 O, N, H, J rune, and, , , in the journal of trauma in 1979 that, first
-described those, those zones, um, it was called evaluation and treatment
+described those, those zones,  it was called evaluation and treatment
 of penetrating cervical, , injuries and in those zones I think are
 really useful just as a, to help us conceptualize into, to try to, ,
 manage, different forms of penetrating injury or different areas of
 penetrating injury.
 
-Um, so those are the zones. , I think that. You know, teaching, , at
+ so those are the zones. , I think that. You know, teaching, , at
 least over the years has been the, penetrating injuries to zone one and
-zone three largely, um, require, you know, imaging at the outset. Um,
+zone three largely,  require, you know, imaging at the outset. 
 and maybe either non-operative repair or at least imaging first with, ,
 because they're very difficult areas to expose penetrating injuries to
 [00:34:00] zone two.
 
-Um, traditionally have been in the teaching has been that those are all
+ traditionally have been in the teaching has been that those are all
 managed with, , an open operation and exploration of the neck.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Um, and then for
+**:**  and then for
 zone three, sort of, I think, much like zone one, , we depend on sort of
 imaging and angiography, , for treatment of these injuries. kind of want
 to dive straight into this and, , discuss how do we manage credit
 injuries. So we're, we're going to just pitch some scenarios at you and
 we, can discuss some of the nuances of it.
 
-Um. If you have a penetrating carotid injury, um, zone two, , and the
-patient is neuro intact. Um, I mean, it's this kind of the most
+Um. If you have a penetrating carotid injury,  zone two, , and the
+patient is neuro intact.  I mean, it's this kind of the most
 straightforward situation. But, , I guess, I guess a better question to
 you is, is , if they're neurologically intact, how do we determine
 whether or not you're going to repair the credit injury
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. I well,
+Yeah. I well,
 I think probably the case-based scenarios are probably best because. You
-know, each management, um, as I mentioned, the zones are there to
+know, each management,  as I mentioned, the zones are there to
 provide some conceptualization, help us to categorize our management.
 But, , the, management of any given cases is often, individualized.
 
 So in this particular case, yes, I mean, whether or [00:35:00] not
-they're, um, neurologically intact certainly matters. Um, I think with
+they're,  neurologically intact certainly matters.  I think with
 penetrating zone to injury, um. I would still operate on that. I think
-that, that, that, um, I think that paradigm is changing with modern
-imaging technologies, CTA mostly, um, and clinical experience.
+that, that, that,  I think that paradigm is changing with modern
+imaging technologies, CTA mostly,  and clinical experience.
 
 But I think that teaching is in the case that you've presented a
 penetrating zone to neck injury with a carotid or penetrating zone to
 wound with a carotid injury, then that patient would be. Operated on
 with an open operation.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** the neurodeficit
-portion of it, um, you know, historically there was concerns over if you
-repair this carotid injury, um, you know, that you could create
+**:** the neurodeficit
+portion of it,  you know, historically there was concerns over if you
+repair this carotid injury,  you know, that you could create
 intercranial hemorrhage. So, say you have a patient that comes in with a
 zone, two injury with, , you know, on the right neck with. Left-sided
-neuro symptoms. Um, w what are your thoughts on that? Does, does the
+neuro symptoms.  w what are your thoughts on that? Does, does the
 neuro status play into it or do you repair, the carotid.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, I think
+Yeah, I think
 that, and these days, you know, as I mentioned or alluded to, we have
 the benefit of CT imaging. So, you know, the, the [00:36:00] paradigm of
 that was. I mentioned the, AGA rune paper from 1979 and that really set
-up the, the zones, you know, that was in really, um, that was in an era
+up the, the zones, you know, that was in really,  that was in an era
 where we did not have, and for many decades after that, we didn't really
 have the benefit of routine high quality contrast CT imaging.
 
 Today we're operating in that, , in this new era with. Routine, high
-contrast or high quality contrast CT scan. So, um, I think in your case,
-you know it, if the injury has a CT scan, um, which is likely to have
+contrast or high quality contrast CT scan. So,  I think in your case,
+you know it, if the injury has a CT scan,  which is likely to have
 these days unless the, unless the injury was associated with bleeding
 and the patient was just taken immediately to the, or, you're going to
 have a CT image.
@@ -2694,15 +2430,15 @@ then you manage it depending upon what the injury looks like at the time
 of open exploration. I mean, it's hard. I think it would be hard for me
 to sit on a penetrating zone to wound that has a.
 
-Carotid injury, I, it's potentially described. Um, , and I think, um,
-but I think, um, there's a couple of reasons that I would err on the
+Carotid injury, I, it's potentially described.  , and I think, 
+but I think,  there's a couple of reasons that I would err on the
 side of, of operating on that.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Yeah. And I
+**:** Yeah. And I
 think, , historically, they talked about, like I mentioned, the
 intercranial hemorrhage. So if you had, say, a, , a very, , beat
-[00:38:00] up looking carotid artery, um, or maybe. near thrombosis that
-they would leave it, um, because they're afraid of reproducing the
+[00:38:00] up looking carotid artery,  or maybe. near thrombosis that
+they would leave it,  because they're afraid of reproducing the
 brain, causing intracranial hemorrhage.
 
 But it seems like the consensus now, at least from your book and the
@@ -2711,23 +2447,23 @@ credit injuries because the mortality and final nerdy neuro status, ,
 has been shown to be better in these patients. even if they started with
 a neurodeficit.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** And I think
+And I think
 that we, you know, as vascular surgeons who do carotid endarterectomy, ,
 routinely, I think we're more so, I don't, I do not. So, first of all,
 this is a complex, . Complex scenario. So I, I'm definitely won't throw
-shade on any previous experiences with this sort of heroin, um, injury
+shade on any previous experiences with this sort of heroin,  injury
 pattern.
 
 I do think that we, um. You know, for those of us who manage and perform
 carotid endarterectomy routinely, we sort of are, are familiar, I guess,
 when maybe not good with it, but we're at least familiar with trying to
 mitigate hyperperfusion syndrome or reprofusion syndrome. And I think
-that is, um, you know, that's just part of the, the management.
+that is,  you know, that's just part of the, the management.
 
 There's the technical management of the injury, and then there's the
 communication with anesthesia to try to lower the blood pressure and the
-overall profusion pressure. Um, in these patients after you repair the
-carotid, um, it's not unlike communicating with anesthesia about
+overall profusion pressure.  in these patients after you repair the
+carotid,  it's not unlike communicating with anesthesia about
 resuscitation, right?
 
 We need to, communicate with anesthesia in this case, to mitigate
@@ -2735,110 +2471,110 @@ hyperperfusion or reprofusion and worsening of a brain injury. We, we,
 need to, , [00:39:00] communicate with anesthesia as well as do a good
 job of fixing the, the injury.
 
-**ringr_116213_115337_host.individual:** That is a great point. Um, what
+**That is a great point.  what
 about in a situation where you have a patient who has a large infarct.
 On the same side as a carotid injury. What is your approach in that
 situation?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. So I
-think, um, you know, and it depends upon the injury. you know, I think
-if this is a penetrating zone to wound. Um, you know, in nearly all
-instances, you know, so you're going to explore it. Um, because it's his
-own two neck injury. Um, I mean, I, I think, um. You know? Okay. So
+Yeah. So I
+think,  you know, and it depends upon the injury. you know, I think
+if this is a penetrating zone to wound.  you know, in nearly all
+instances, you know, so you're going to explore it.  because it's his
+own two neck injury.  I mean, I, I think, um. You know? Okay. So
 there may be some that are, that are sort of there.
 
-I'm trying to avoid the words. It depends. Um, you know, I suppose there
+I'm trying to avoid the words. It depends.  you know, I suppose there
 are some minor penetrating injuries where the, the image, , you know,
 it's a small stab wound or ice pick type of thing. , in, in, in,
 there's, there's, there's no hematoma. It's looks like there's a injury
 to the carotid. That's, , that's, that's, .
 
 , resulted in, , in an infarct or a stroke, but there's no bleeding or
-pseudo aneurysm. Um, there might be scenarios where you would observe
+pseudo aneurysm.  there might be scenarios where you would observe
 it. I, I don't, that's not a practice that I, a spouse. I would explore
 all of these. I still sort of fall, fall back on exploring all
-penetrating zone two injuries. Um, and in that case then you're going to
+penetrating zone two injuries.  and in that case then you're going to
 be in the neck anyway.
 
 You're going to see the injury to the carotid. And I guess your
 question. Nicole is in the setting of an infarct, would you then repair
-the carotid? Um, I mean, your options are either to repair it, do
-nothing to it or, or lie gated and I guess as a vascular surgeon, um,
-you know, I would repair it. Um, I think observing [00:40:00] it while
+the carotid?  I mean, your options are either to repair it, do
+nothing to it or, or lie gated and I guess as a vascular surgeon, 
+you know, I would repair it.  I think observing [00:40:00] it while
 you're there looking at it is then you risk it evolving into a pseudo
 aneurysm and you having to re operate on it, you know, days or weeks
 later.
 
-As it is, the small injuries of all. Um, and I think, you know, the, the
+As it is, the small injuries of all.  and I think, you know, the, the
 question of, well, if he's already at the patient already has an
-infarct, would you like it? Um, I think that that don't, that's just not
-something that is a vascular surgeon, um, that, that I would pursue. I
-think, um, um, I would try to, , I would try to repair the injury
+infarct, would you like it?  I think that that don't, that's just not
+something that is a vascular surgeon,  that, that I would pursue. I
+think,   I would try to, , I would try to repair the injury
 reperfused the hemisphere.
 
-Um, acknowledged that, yes, you could make things worse with
+ acknowledged that, yes, you could make things worse with
 reprofusion. but, , you also may take up a number that was ischemic and
 you may reproduce it and, and push the penumbra in a positive direction.
 So, you know, there's not a lot of data in this area. And I mentioned
-the word heroin. Um, you know, these are the most challenging of, of
+the word heroin.  you know, these are the most challenging of, of
 injury scenarios for sure.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Definitely. Yeah.
+**:** Definitely. Yeah.
 there's no easy answers there,
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** I mean, what
+I mean, what
 do you think, Nicole? What do you guys think and what's your experience?
 I mean, I, [00:41:00] I'm, I'm interested also in what you guys think
 about that case.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** I have one
-experience with this. It was in residency. Um, we had a, a person that
+**:** I have one
+experience with this. It was in residency.  we had a, a person that
 was sleeping and, , a, a pressure washer guy came up to him and asked
 him to move. He refused to move and they got in a fight and I got the
 pressure washer straight to the neck. , tore open his carotid. They came
 into the ER holding pressure on his neck and huge hemiparesis on the
 contralateral side.
 
-Um, in that case, we did repair the carotid, and he did have a dense
-hemiparesis after the case. Um, you know, whether litigating would have
+ in that case, we did repair the carotid, and he did have a dense
+hemiparesis after the case.  you know, whether litigating would have
 helped or not, you know, we don't know, but that, that's my, that's my
 one experience.
 
-**ringr_116213_115337_host.individual:** Um, I actually haven't seen a
+** I actually haven't seen a
 situation like this,
 
 but it's definitely a tough, it's a tough situation. I think if you have
 an injury that's going to cause potential for bleeding or a pseudo
 aneurysm. And the vessel is payment, then my [00:42:00] inclination
-would be to repair it. Um, if you're doing, if you have like an
+would be to repair it.  if you're doing, if you have like an
 occlusion of the artery, when you explore it, you know, say you try to
 do a thrombectomy and you're not getting any retrograde bleeding.
 
 That might be a situation where I've considered ligating it, but these
 are tough calls.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** I think
+I think
 you're, I think you're spot on. And I think as surgeons, you know, at
-you know, at some point, um, , you know, um, um, I won't speak for other
+you know, at some point,  , you know,   I won't speak for other
 of my colleagues. , and I'm not saying that we. Try to teach this mantra
 to our trainees. But you know, sometimes what comes to mind is, well,
 don't overthink it. you're a vascular surgeon.
 
 You've explored a vascular injury. There's a hole in the artery or
-disrupted artery, do what we do, which is fix it. And, um, again, I
-don't mean to be, um, , overly simplistic. I'm not trying to be, um, ,
+disrupted artery, do what we do, which is fix it. And,  again, I
+don't mean to be,  , overly simplistic. I'm not trying to be,  ,
 sarcastic, but I, I think we get to that point. Where you know you're
 going to have to fix it.
 
-It would be very difficult to just not do anything. And I think, um, in
-the case that you described Kevin, um, I think that's important. You do
+It would be very difficult to just not do anything. And I think,  in
+the case that you described Kevin,  I think that's important. You do
 need to know going into these, that the outcome's going to be likely to
-be stroke. You know, whether you make the stroke better or worse, um,
+be stroke. You know, whether you make the stroke better or worse, 
 you're not [00:43:00] really going to know by fixing the artery.
 
 Um. And so the outcome's going to be pretty bad. , either way, I think
 that's important for family and the patients and, for the care team to
-recognize. Um, these situations, but, um, to me fixing it as, unless
+recognize.  these situations, but,  to me fixing it as, unless
 Nicole, you bring up a good point. If the carotids occluded, then yeah,
 I think then that is a time when I would like eat it.
 
@@ -2851,26 +2587,26 @@ of a carotid endarterectomy, we actually likely ligated.
 , and so I think we fall back on some of the similar principles that we
 pursue and we're fixing age related carotid disease.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Definitely, , and
+**:** Definitely, , and
 for completeness sake, there's another large. That's hole in the neck, ,
 that we encounter injuries to, , what is your thought on, , internal
 jugular injuries? , can you like eight one, two, or
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah, I
-think, , I mean, you certainly can. [00:44:00] One can certainly, um, ,
-like eight, these I think, um, um, and not have. Um, consequential
-effects in most patients. Um, internal carotid arteries that are, I'm
+Yeah, I
+think, , I mean, you certainly can. [00:44:00] One can certainly,  ,
+like eight, these I think,   and not have.  consequential
+effects in most patients.  internal carotid arteries that are, I'm
 sorry, the internal jugular veins that I have repaired have been in the
 situation of a significant TBI.
 
-So a patient has, you know, um, , bleeding in the neck. You explore,
+So a patient has, you know,  , bleeding in the neck. You explore,
 explore the. the neck and the patient also has a penetrating wound to
 the head and intracranial hypertension and, you know, needed a
 decompressive craniectomy or something. in those cases, I have repaired
 the internal jugular vein to maintain venous outflow of that side of the
 brain.
 
-Um, you know, I'm never sure whether or not that is necessary, but, um,
+ you know, I'm never sure whether or not that is necessary, but, 
 you know, I think it, it makes sense to me. I think, . In one case, I
 remember before I repaired the internal jugular vein, you know, we
 transduced a venous pressure, , towards the cranial side, and the venous
@@ -2878,118 +2614,118 @@ pressure was, you know, 40 or 50 millimeters of mercury, and there was a
 gradient, right?
 
 Eight millimeters of [00:45:00] mercury on the, on the cardiac side, or
-the proximal or central side. So to me, if there's a gradient, um, and
-the patient's got a TBI. Um, you know, I think fixing it is at least
+the proximal or central side. So to me, if there's a gradient,  and
+the patient's got a TBI.  you know, I think fixing it is at least
 reasonable. but most of the time you can lie gate, the external jugular,
 , the internal juggler.
 
-Um, and there's enough collateral, venous drainage that, , the patients
+ and there's enough collateral, venous drainage that, , the patients
 will do fine.
 
-**ringr_116213_115337_host.individual:** Okay. So going back to repair
+**Okay. So going back to repair
 of the carotid artery and these, , trauma situations. So, you know, we
-fall back on the standard steps that we use in, um, you know, other
+fall back on the standard steps that we use in,  you know, other
 types of vascular surgery. , the first thing being getting proximal and
 distal control. And then Dr. Rasmussen, can you speak to us about
 heparin ization and how you manage that in the trauma setting?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. I think
-this is, I'm in this injury pattern more than, um, more than most or
+Yeah. I think
+this is, I'm in this injury pattern more than,  more than most or
 more than any other arterial injury pattern. You, you've, you have to
-use heparin in these cases. So, um, you know, it's a, , in some injury
+use heparin in these cases. So,  you know, it's a, , in some injury
 patterns, you kind of have to be ready for a wild ride. Because because
 you explore the neck for bleeding [00:46:00] in a, and if the patient
 has poly trauma, there's bleeding elsewhere.
 
-Um, and now you're going to fix the carotid artery, , in some manner.
+ and now you're going to fix the carotid artery, , in some manner.
 You're going to either put in a shunt or, or just repair it primarily,
 or you're going to have to, if you're going to clamp the carotid artery,
 , in my experience, you're going to need to use heparin. And so what I
 mean by a wild dried is, you know, you're.
 
 Explore the patient for bleeding, they're already bleeding. And now what
-do you do? You give more heparin. Um, the key there is to try to fix the
+do you do? You give more heparin.  the key there is to try to fix the
 carotid is, you know, as quickly as you can, , try to manage the, the
-other areas of bleeding while the patients have denies. Um, and then,
+other areas of bleeding while the patients have denies.  and then,
 you know, bring them off of pepper and after the carotid is repaired.
 
 I think unlike, for example, I think there's extremity arterial injuries
 that can sometimes be managed without heparin. But I think if you're
-going to go to the trouble of, , in the, in the, in the technical, um,
-challenge of, fixing a traumatic carotid injury, um, I think in nearly
+going to go to the trouble of, , in the, in the, in the technical, 
+challenge of, fixing a traumatic carotid injury,  I think in nearly
 [00:47:00] every case you got to give systemic, , heparin.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** so you know, you
-have proximal and distal control. Now the patients have pronounced, um,
-and how, how do you decide, um, whether to use a shunt or not and what
+**:** so you know, you
+have proximal and distal control. Now the patients have pronounced, 
+and how, how do you decide,  whether to use a shunt or not and what
 type of shot do you use.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. So, um,
+Yeah. So, 
 you know, so the tenants are not, and so once you've done that, the
-tenants are similar to other Cherrelle injuries. Um, you need to, um,
+tenants are similar to other Cherrelle injuries.  you need to, 
 identify the injury and then. Remove the burden of thrombus. Often that
 can be done with flushing, you know, back bleeding of the internal
 carotid or back blading and for bleeding.
 
 And then, passage of a thrombectomy catheter, obviously passing a
-thrombectomy catheter up. The internal carotid needs to be done. Um, you
+thrombectomy catheter up. The internal carotid needs to be done.  you
 know, very carefully. It's usually a two or three Fogarty catheter and
 just a centimeter two. You really don't want to be putting a Fogarty
 catheter. Distill into the internal carotid more than a centimeter too.
 
 Hopefully you can rely on back bleeding, you know, and back bleeding
 from that internal can quote unquote blow out any thrombus that's there.
-Um, same with the proximal, but do [00:48:00] be aware that you need to
+ same with the proximal, but do [00:48:00] be aware that you need to
 get rid of the thrombus burden in those arteries before you fix them.
-Um, whether or not to use a shunt, I mean, I think in most cases of
+ whether or not to use a shunt, I mean, I think in most cases of
 trauma, um.
 
-I, I have to say that I do not use a shunt, um, because it's, it's too,
-um, it adds just another level of complexity to a case that's already
-complex. Um, and if I were to use a Shaunte, I would use either an
+I, I have to say that I do not use a shunt,  because it's, it's too,
+ it adds just another level of complexity to a case that's already
+complex.  and if I were to use a Shaunte, I would use either an
 Argyle, Sean's or a short son. Shant, S U N D T. , or the Argyle.
 Shawn's. I think it's reasonable to do that.
 
-Um, let's say you've got a long segment, um, the loss of the carotid
+ let's say you've got a long segment,  the loss of the carotid
 artery, you're going to need to do an interposition graft, let's say.
-Um, and, and in that case, you, you know, you're going to have to go
-harvest vein. Um, um, you know, in those cases, I suppose, sure. It's,
+ and, and in that case, you, you know, you're going to have to go
+harvest vein.   you know, in those cases, I suppose, sure. It's,
 it's reasonable in those cases to put in a shunt to reproduce that
 hemisphere of the brain.
 
-, while the conduit is, is harvested or prepared. Um, so certainly there
-are times when I have used a shunt in the setting of trauma, but, um, I
+, while the conduit is, is harvested or prepared.  so certainly there
+are times when I have used a shunt in the setting of trauma, but,  I
 always also, I also try to keep in mind [00:49:00] too, in the case of
 carotid trauma, to try to keep it as simple as possible. Keep in mind,
-um, That the internal carotid can also be transposed over onto the
+ That the internal carotid can also be transposed over onto the
 external carotid artery as a transposition.
 
 You know, in some cases, depending upon the precise location of the
 injury, so that, you know, you don't need an interposition graft. And in
 those cases, you know, you would not use a either. Um. So, you know, I
 think, yeah, be, be mindful to use the shot and be ready, sort of think
-about it, but also, um, if you find that fixing, it sets up pretty
+about it, but also,  if you find that fixing, it sets up pretty
 quickly, either with an interposition graft or with a carotid
 transmission transposing the internal onto the external.
 
 If that sets up pretty quickly, , I do not think you should feel
 obligated to use a shunt in the setting of trauma.
 
-**ringr_116213_115337_host.individual:** Okay. Great. Um, so. Options
+**Okay. Great.  so. Options
 for repair dictated somewhat by the injury and the size of the injury.
-Um, you mentioned harvesting vein. Um, I think that's a good point,
+ you mentioned harvesting vein.  I think that's a good point,
 especially in cases where you're [00:50:00] exploring the neck and
-there's also an aerodigestive injury, um, in order to avoid putting
+there's also an aerodigestive injury,  in order to avoid putting
 prosthetic in the vein option is nice.
 
-Um, what if you have a small injury and you're just planning to do a
+ what if you have a small injury and you're just planning to do a
 patch?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** So, For the
-patch, I would either use, , personally, I would use Dacron or, , um, ,
+So, For the
+patch, I would either use, , personally, I would use Dacron or, ,  ,
 bovine pericardium. You know, I think something, some prosthetic that's
-available, , you know, hemophilia Dacron patch, , or bovine pericardium,
-um, as a patch. And I think, you know, you raise a really good point
+available, , you know, hemophilia Dacron patch, , or bovine pericardi
+ as a patch. And I think, you know, you raise a really good point
 there that I think if it's, clearly a contaminated wound.
 
 A penetrating wound where, you know, whether it's because there's an
@@ -3003,57 +2739,57 @@ penetrating wound, there's no evidence, at least overt evidence of
 aerodigestive injury. There's no really other contamination. Let's say
 it's a stab wound. , , you know, and it's not a big [00:51:00] soft
 tissue all quickly, , also use, , , Dacron or PTFE and, or position
-graft and not use the, um, as I mentioned before, I think, um.
+graft and not use the,  as I mentioned before, I think, um.
 
-You know, you try to be mindful of keeping these operations, um, you
+You know, you try to be mindful of keeping these operations,  you
 know, as, as, , expeditious as possible. You try to move them along.
-And, um, in the case where there's not a lot of contamination, um, or
-any contamination, um, I also will then not use me. You know, I think, ,
+And,  in the case where there's not a lot of contamination,  or
+any contamination,  I also will then not use me. You know, I think, ,
 , using a Dacron interposition graft or PTFE in this larger vessel,
 these common carotid is, .
 
-**ringr_116213_115337_host.individual:** Okay, great. Then I think one
+**Okay, great. Then I think one
 important point also to mention is that you need to debris back any
-devitalized tissue. Um, so you know, if there's a defect in the artery,
+devitalized tissue.  so you know, if there's a defect in the artery,
 but the tissue around it is pretty ratty. You know, you may have to
 actually debried it back and make the defect larger initially before you
 repair it.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Really good
+Really good
 point. Yeah. This ma'am. And the same with us, Sean. That's why. You
 know, I said, be ready to use a shot. [00:52:00] Certainly in some
 situations you need to use a shun, but you know, using the shot, you can
 also, , either create a concrete, you know, an injury or cause you to
 need to debris the artery back a little further.
 
-Um, so really good point.
+ so really good point.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** , start, you're
+**:** , start, you're
 asking some, one point that I picked up from reading your chapter here
 is that, , we're talking about back bleeding from the internal carotid
 and it made the point of back bleeding is restored. , you should perform
 an interrupt angiogram. To document complete evacuation of distal
 thrombus.
 
-Um, can you just speak to this.
+ can you just speak to this.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Yeah. I
-think, a completion study, um. Um, is is definitely, , something to,
+Yeah. I
+think, a completion study, um.  is is definitely, , something to,
 consider or to perform. Now, I think we've used the, we've, we've used
 the phrase during our discussion here this afternoon, , a luxury. You
 know, there's some of these things that you have the luxury to do. You
 know, in some cases of trauma, you, may not have the luxury to perform.
 
-an on the table. Arteriogram so, um, in those cases, I would use duplex,
+an on the table. Arteriogram so,  in those cases, I would use duplex,
 , if you have duplex or even, use , the, [00:53:00] duplex function of,
-the ultrasound that you have in the, or to show flow. Um, you know, and
+the ultrasound that you have in the, or to show flow.  you know, and
 then the, the most simple thing is a continuous wave Doppler.
 
 And so some form of assessment of your repair certainly is indicated.
-Um, the complexity of that completion exam depends on what. Capabilities
-you have and how the patient's doing. Um, so certainly in an ideal
+ the complexity of that completion exam depends on what. Capabilities
+you have and how the patient's doing.  so certainly in an ideal
 situation, you're fully outfitted. You've got, , experienced colleague
-or partner or fellow with you, and, um, you know, the patient is on the
+or partner or fellow with you, and,  you know, the patient is on the
 right imaging table and you can do a completion arteriogram then
 absolutely.
 
@@ -3063,16 +2799,16 @@ arteriogram, , both the repair and the distal internal carotid to assure
 that there's no thrombus in situations where you're not that outfitted
 and you don't have that luxury then using a duplex ultrasound.
 
-Um, I think is, [00:54:00] is fine. And in those cases, you don't have
+ I think is, [00:54:00] is fine. And in those cases, you don't have
 duplex or the patients just, . , has enough injuries that are in his, in
 a complicated enough situation using a continuous wave Doppler and, and,
 and just, finishing up is also
 
-**ringr_116213_115337_host.individual:** I'm curious. Dr. Rasmussen, do
+**I'm curious. Dr. Rasmussen, do
 you use a completion imaging study for elective carotid repairs?
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** At this
-point? Um, yeah, we use, , ultrasound. We use duplex ultrasound, but not
+At this
+point?  yeah, we use, , ultrasound. We use duplex ultrasound, but not
 arteriography. I mean, I think that the arteriography point is, , is
 useful. I appreciate that. And, , I think, for those who have done that
 before and are used to doing it, it's reasonable. The, the counter to
@@ -3085,31 +2821,31 @@ think, try to strike this balance between, I mean, um.
 
 You know, being perfect and then spending too much time overthinking it
 and, , , carotid angiography completion angiography in the setting of
-trauma may just not be feasible in a lot of cases. Um, or people may not
+trauma may just not be feasible in a lot of cases.  or people may not
 have the experience in doing it.
 
-**ringr_116213_115337_host.individual:** Right. Okay, so what if there's
+**Right. Okay, so what if there's
 a concomitant tracheal or esophageal injury? Do you do anything
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Well, I mean,
+Well, I mean,
 I think we, we didn't mention the word, we didn't mention drains. So,
 you know, in all of these cases where we've explored his own to
 penetrate a neck injury, those patients are all drained. , with, , you
 know, for me, , , a seven millimeter flat JP drain or, or maybe more,
-um, I guess that's a great question.
+ I guess that's a great question.
 
 I don't know that there's a situation where I really buttressed , or
-done used any adjuncts [00:56:00] to cover my repair. Um, the
-vascularity of the neck. Um, um. is good and if not, great. And I think
+done used any adjuncts [00:56:00] to cover my repair.  the
+vascularity of the neck.  um. is good and if not, great. And I think
 that helps. I think if you've drained the, , the, , the, the wound that
 is also sort of a mitigating step.
 
-And I'm not sure that I have buttressed, , or done anything, um, more
+And I'm not sure that I have buttressed, , or done anything,  more
 than that to protect the arterial repair. And maybe it's because I've
 not had any that have had. overt esophageal injury. They may be, you
 know, micro injury or something like that. Small. do you think, Nicole?
 
-**ringr_116213_115337_host.individual:** I've heard of using a muscle
+**I've heard of using a muscle
 flap to separate the. Esophageal injury from the arterial injury, but
 I'm not sure if that's always necessary. And I do like the idea of the
 drain, because that would prevent any
@@ -3118,39 +2854,20 @@ collection from building up there that could compromise your
 
 arterial repair.
 
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** I think that
+I think that
 those are both. Good points. I think the drain is in my mind, the drains
 of mosque. Even if you explore the zone too. Yeah. You still know,
 [00:57:00] because remember many of this opera deal injury, you just not
 going to see, and honestly. I don't know that any of us are familiar
 enough with exposing the esophagus, , through that wound, we, we may
 sort of see the esophagus, and do the best we can, but many of this off
-the GL injuries will be pretty small, um, or we may not see them.
+the GL injuries will be pretty small,  or we may not see them.
 
 , so I think that, , the drain is a must, , in these injuries, at least
 one and a muscle flap, I guess is something to consider if there's gross
 contamination. You know, either spillage from a softened geo wound or
 they're just gross contamination, the wound.
 
-**ringr_116213_115337_krkniery_gmail.com.individual:** Well, Dr.
-Rasmussen, once again, . We've covered a lot of topics in one session
-and we really appreciate your expertise and insight
-
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Well, it's a
-pleasure to, to have the discussion with you this afternoon, and, um,
-and I hope that it's useful to, to you and to your listeners. I know
-it's been useful for me to run through a lot of these scenarios with you
-this afternoon, so [00:58:00] thanks for the opportunity.
-
-**ringr_116213_115337_krkniery_gmail.com.individual:** And I think we
-still have at least one more topic to cover in the future. endovascular
-slash were boa management of trauma, if you're up for it.
-
-**ringr_116213_115337_todd.rasmussen_uss.edu.individual:** Sure thing.
-Happy to. Happy to visit with you guys anytime.
-
-**ringr_116213_115337_krkniery_gmail.com.individual:** Great. thank you
-again.
 
 EAST Blunt Cerebrovascular Injury Guidelines
 
@@ -3159,6 +2876,8 @@ EAST Blunt Cerebrovascular Injury Guidelines
 Check out Rich's Vascular Trauma
 
 <https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>
+
+
 
 ## Endovascular Approaches
 
