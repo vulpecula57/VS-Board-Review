@@ -13,6 +13,8 @@ Forest*
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Renalvascular_take_2.mp3")
 
 ```
