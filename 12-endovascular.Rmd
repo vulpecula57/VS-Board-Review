@@ -8,16 +8,8 @@ editor_options:
 
 ## Vascular Access
 
-[**Authors and Contributors**]{.underline}
-
--   **Sammy Siada, DO, RPVI;** HS Assistant Clinical Professor; Vascular
-    and Endovascular Surgery; *UC Fresno*
-
--   **Rafael Demarchi Malgor, MD, MBA, FACS;** Associate Professor of
-    Surgery; Program Director, Robert B. Rutherford fellowship and
-    residency in Vascular Surgery; Division of Vascular Surgery and
-    Endovascular Therapy; *The University of Colorado, Anschutz Medical
-    Center*
+**Authors:** Sammy Siada, DO, RPVI; Rafael Demarchi Malgor, MD, MBA,
+FACS
 
 ```{r echo=FALSE}
 
@@ -381,6 +373,8 @@ clinical judgement of the surgeon.
 
 ## Radiation Safety
 
+**Authors:** Adam Johnson, MD, MPH
+
 ### Important Terms
 
 **Absorbed Dose** - energy deposited by ionizing radiation in a medium
@@ -406,7 +400,7 @@ point along a fluoroscopic axis.[@kirkwood2013]
 -   Includes dose from fluorsocopy and fluorography acquisitions,
     however does not account for gantry angulation of changes in height.
 
-**Substantial Radiation Dose Live (SRDL)** - defined as 5Gy exposure,
+**Substantial Radiation Dose Level (SRDL)** - defined as 5Gy exposure,
 which translates to a skin dose of 3Gy and should trigger specific
 patient follow up.[@baiter2011; @hirshfeld2005; @kirkwood2015;
 @stecker2009]
@@ -420,7 +414,7 @@ throughout their careers. The effects of radiation are defined as either
 deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:----------------:|------------------------------------------------------|
+|:-----------------:|-----------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
@@ -609,7 +603,7 @@ CO2 angiography is often utilized in place of iodinated contrast during
 fluoroscopy. A bolus of CO2 is injected, which then absorbs less
 ionizing radiation than surrounding tissue and provides a map of the
 arterial tree. CO2 can be used in a wide range of endovascular
-procedures, even a ruptured AAA.@knipp2010 However, there are specific
+procedures, even a ruptured AAA.\@knipp2010 However, there are specific
 limitations and complications that should be understood.
 
 #### Limitations
