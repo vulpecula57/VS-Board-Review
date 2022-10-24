@@ -324,8 +324,8 @@ appropriate.[@morasch2009; @matsumura2009]
 
 ## Aneurysms - Thoracic and Thoracoabdominal
 
-02 Dec 2021: Mr. Mohamed Barkat, Mr. Nick Greaves, and Mr. Michael
-Jenkins
+02 Dec 2021: Rachael Forsythe, Mr. Mohamed Barkat, Mr. Nick Greaves, and
+Mr. Michael Jenkins
 
 ```{r echo=FALSE}
 
