@@ -1,0 +1,14 @@
+library(devtools)
+library(devtools)
+devtools::install_github("mccarthy-m-g/embedr")
+library(embedr)
+install.packages("bibtex")
+library(bibtex)
+bookdown:::serve_book()
+install.packages("servr")
+bookdown:::serve_book()
+library(embedr)
+$ git config --global user.name "adam-mdmph"
+git config --global user.name 'adam-mdmph'
+install.packages(c("bayestestR", "bdsmatrix", "blob", "bookdown", "brew", "broom", "broom.helpers", "bslib", "callr", "car", "checkmate", "class", "cli", "clipr", "cluster", "colorspace", "commonmark", "crayon", "datawizard", "DBI", "dbplyr", "desc", "devtools", "doBy", "dplyr", "DT", "e1071", "effectsize", "emmeans", "estimability", "evaluate", "fansi", "farver", "fontawesome", "foreign", "gdata", "generics", "gert", "ggeffects", "ggplot2", "glue", "gmodels", "gt", "gtools", "gtsummary", "haven", "Hmisc", "htmlTable", "htmltools", "httpuv", "httr", "insight", "jsonlite", "knitr", "labelled", "latticeExtra", "lme4", "magrittr", "maptools", "MASS", "Matching", "MatchIt", "Matrix", "mgcv", "nlme", "nloptr", "nnet", "openssl", "packrat", "parameters", "performance", "pillar", "pkgload", "plyr", "polynom", "processx", "proxy", "ps", "quantreg", "rbounds", "RColorBrewer", "Rcpp", "RcppEigen", "readr", "readxl", "reshape", "rlang", "rmarkdown", "roxygen2", "rpart", "rprojroot", "rsconnect", "sass", "scales", "see", "segmented", "shiny", "sjlabelled", "sp", "spatial", "stringi", "survival", "tableone", "testthat", "tibble", "tidyr", "tidyselect", "tidyverse", "tinytex", "tzdb", "usethis", "uuid", "vctrs", "waldo", "webshot", "withr", "xfun", "yaml", "zoo"))
+knit_with_parameters("~/Documents/Audible Bleeding/Exam Prep/VS Board Review/VS-Board-Review/02-upper-extremity.Rmd")
