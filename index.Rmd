@@ -1,4 +1,4 @@
---- 
+---
 title: "Vascular Surgery Exam Prep"
 author: "Editors: Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding"
 date: "DRAFT - `r Sys.Date()`"
@@ -15,7 +15,6 @@ site: bookdown::bookdown_site
 apple-touch-icon: "images/apple_icon.png"
 ---
 
-
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(devtools)
 
@@ -23,20 +22,97 @@ devtools::install_github("mccarthy-m-g/embedr")
 library(embedr)
 ```
 
-
 # About
 
-This content was developed by the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/) to accompany our board review podcast series.
-Each chapter covers a key domain of vascular surgery, essential for board review preparation, and is associated with an Audible Bleeding episode which you can access through the link embeded into the text. 
+This content was developed by the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/) to accompany our board review podcast series. Each chapter covers a key domain of vascular surgery, essential for board review preparation, and is associated with an Audible Bleeding episode which you can access through the link embeded into the text.
 
-## Usage 
+## Usage
 
 This e-book is not intended to be a comprehensive board review guide, but instead serves as an easily accessible resource, paired with our podcast content to help streamline exam preparation.
+
+Please consider this a "living document." We plan to post regular updates and respond to your feedback. We are utilizing an open source annotations software called [hypothes.is](https://web.hypothes.is) to allow you to take note along side our e-book. Feel free to post your notes publically if you think other readers would benefit from your additions, or create a small private group for your local trainees of faculty members. We will work to incorporate relevant notes and additions into future editions.
 
 ## Comments, Questions or Contributions
 
 Please visit our [github page](https://github.com/adam-mdmph/VS-Exam-Prep) or [send us an email](mailto:audiblebleeding@vascularsociety.org).
 
+## Authors and Contributors
+
+### Authors
+
+**Mohamed Barkat**; Consultant Vascular Surgeon; *Manchester University NHS Foundation Trust*
+
+**Einar Brevik**; Consultant Vascular Surgeon; *Haukeland University Hospital*
+
+**Matthew Chia, MD**; Vascular Surgery Resident; Northwestern
+
+**Anahita Dua, MD**; Assistant Professor of Vascular Surgery; Director of Vascular Laboratory; Co-director of the Peripheral Arterial Disease Center; *Harvard University, Massachusetts General Hospital.*
+
+Julie Duke
+
+Matthew Edwards
+
+**Adham Elmously, MD**; Cardiothoracic Fellow; *Houston Methodist*
+
+Alex Forsyth
+
+**Rachael Forsythe, MBBS**; Consultant Vascular Surgeon; *Royal Infirmary Edinburgh*
+
+Nick Grieves
+
+Manj Gohel
+
+Michael Jenkins
+
+Adam P. Johnson, MD, MPH
+
+Nedal Katib
+
+Kevin Kneiry, MD, MPH
+
+Young Lee, MD
+
+**Joseph Lombardi, MD;** Professor and Chief of Vascular Surgery; *Cooper University Hospital* 
+
+**Rafael Demarchi Malgor, MD, MBA, FACS;** Associate Professor of Surgery; Program Director, Robert B. Rutherford fellowship and residency in Vascular Surgery; Division of Vascular Surgery and Endovascular Therapy; *The University of Colorado, Anschutz Medical Center*
+
+Asharf Mansour, MD
+
+Nick Mouawad
+
+Cullen McCarthy
+
+Mia Miller
+
+Andrew Nickinson
+
+Anna Ohlsson
+
+**Alaska Pendleton, MD**; Vascular Surgery Resident; *Massachusetts General Hospital*
+
+Todd Rassmussen, MD
+
+Nicole Rich, MD, MPH
+
+Sherene Shalhub, MD
+
+Kush Sharma, MD
+
+**Sammy Siada, DO, RPVI;** HS Assistant Clinical Professor; Vascular and Endovascular Surgery; *UC Fresno*
+
+Aminder Singh
+
+Matt Smeds, MD
+
+**Matt Spreadbury, MD**; Vascular Surgery Resident; *Haukeland University Hospital*
+
+### Contributors
+
+Sharif Ellozy
+
+Eilidh Gunn
+
+Leanna Erete
 
 ```{r include=FALSE}
 knitr::write_bib(c(
