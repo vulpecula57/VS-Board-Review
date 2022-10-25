@@ -305,10 +305,7 @@ perioperative rates of major morbidity or mortality.[@aitken2016;
 
 **What is the role for endovascular creation of AV fistula?**
 
-New methods are now available to perform an upper extremity AVF
-endovascularly, although many patients would be suitable candidates, as
-of now the usability of these fistulas have not matched that of
-surgically placed AVF.[@lok2017]
+Endovascular approach to fistula creation without open surgery is another option for dialysis access creaton. The results of the NEAT study (Novel Endovacular Access Trial), prospective multicenter study which showed that 98% of the 80 patients enrolled had EndoAVFs created. Of these, 87% were physiologically suited for dialysis, and functional usability (2 needle cannulation) was 64%. Primary and cumulative patencies were 69% and 84%, respectively. Total complication rate was 8%. (PMID: 28624422) This is a promising alternative to surgical arteriovenous fistula creations. [@lok2017]
 
 **When is the newly created dialysis access ready for use?**
 
