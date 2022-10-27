@@ -414,7 +414,7 @@ throughout their careers. The effects of radiation are defined as either
 deterministic or stochastic.
 
 |  Dose   | Effect                                                                                             |
-|:-----------------:|-----------------------------------------------------|
+|:-------:|----------------------------------------------------------------------------------------------------|
 |  0-2Gy  | No observable effects                                                                              |
 |  2-5Gy  | Transient skin erythema and dermatitis, full recovery 6w-1yr[@guesnier-dopagne2019; @kirkwood2014] |
 | 5-10Gy  | Erythema and epilation (hair loss), prolonged erythema up to 1y                                    |
