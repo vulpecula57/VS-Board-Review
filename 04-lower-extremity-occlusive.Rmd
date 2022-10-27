@@ -4,13 +4,19 @@ editor_options:
     wrap: 72
 ---
 
-# Lower Extremity Occlusive Disease
+# Lower Extremity 
 
 **UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
 
-## Pathophysiology
+This chapter is lengthy and covers all vascular disease of the lower extremity, 
+progressing in sub-chapters through peripheral arterial occlusive diease, critical 
+limb ischaemia, acute limb ischaemia, compartment sydrome, lower limb amputation,
+ and some of the more rare non-atheromatous conditions. 
 
-24 Aug 2020: Nedal Katib and Danielle Bajakian
+## Pathophysiology of Peripheral Arterial Occlusive Disease 
+
+ Accompanying Epsiode: 
+Peripheral Arterial Occlusive Disease (Part 1): Nedal Katib and Danielle Bajakian
 
 ```{r echo=FALSE}
 
@@ -20,27 +26,26 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part_1_postEQ.mp3")
 
 ```
 
-**What is Peripheral Arterial Disease (PAD) and what does it
-encompass?**
+**What is Peripheral Arterial Disease (PAD)?**
 
 Peripheral Arterial Disease encompasses extremity arterial disease but
 generally is used to describe lower limb arterial occlusive disease.
-PAOD is a more specific term and this encompasses atherosclerotic
-disease of the lower limb arteries.
+Peripherial Artery Occlusive Disease (PAOD) is a more specific term 
+and this encompasses atherosclerotic disease of the lower limb arteries.
 
-The disease has various presentations on a spectrum of asymptomatic
+The disease has a stepwise spectrum of presentations from asymptomatic
 disease to intermittent claudication and finally chronic limb
 threatening ischemia (CLTI) formerly known as Critical Limb Ischemia
 (CLI) [@aboyans2017ESCGuidelines2018]
 
 **What is the underlying pathophysiology of PAOD?**
 
-The underlying pathophysiology which results in occlusive arterial
-disease of the lower limb has somewhat evolved over the last 50 years.
-While atherosclerosis remains, the main pathological process resulting
-in occlusive disease, smoking related atherosclerosis has in the last 30
-years been confounded with the rising incidence of diabetes and in
-addition an aging population with progressive arterial disease.
+The understanding of the underlying pathophysiology which results in 
+occlusive arterial disease of the lower limb has evolved over the 
+last 50 years. Atherosclerosis remains the main pathological process resulting
+in occlusive disease with smoking being the primary modifiable risk factor.  
+Although the rising incidence of diabetes has created a second population
+of patients with a signficant PAOD burden.
 
 Atherosclerosis, in summary, begins with an injury to the intimal lining
 of the arterial wall, which can result from smoking, hypertension or
