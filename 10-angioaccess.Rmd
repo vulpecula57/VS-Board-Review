@@ -205,12 +205,12 @@ proximal include:
 
 **If you need to use a prosthetic graft, what would you use?**
 
-PTFE is the most common, they make tapered 4-7mm grafts to ensure the
+PTFE is the most commonly used prosthetic graft. Either a 6mm graft or a tapered 4-7mm graft can be used. The tapered grafts help to ensure that the
 size of your arterial anastomosis isn't too large to minimize chances of
 steal. However, recent publications found that there is no difference
 between tapered and non-tapered grafts in terms of primary patency,
 steal syndrome, complication rates or need for
-reintervention.[@roberts2019; @han2017]
+reintervention.[@roberts2019; @han2017] Both the 6mm PTFE graft and the tapered 4-7mm PTFE grafts are standard sizes used for dialysis access creation. 
 
 Overall AVG have benefit of earlier cannulation, discussed later,
 however they have lower patency rates and higher infection rates. There
