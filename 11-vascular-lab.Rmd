@@ -46,8 +46,8 @@ impedance](https://en.wikipedia.org/wiki/Acoustic_impedance)s.
 flow.
 
 **Spectral Doppler** converts frequency shifts from moving blood to
-velocities using the Doppler equation and displays a "spectrum" of
-these frequencies as Doppler waveforms.
+velocities using the Doppler equation and displays a "spectrum" of these
+frequencies as Doppler waveforms.
 
 **Color Doppler** presents velocity information as a color-coded overlay
 on top of a B-mode image. Duplex ultrasonography is a term commonly used
@@ -175,13 +175,13 @@ the aorta and iliacs.[@muelaméndez2018]
 -   CT - limitations include ionizing radiation, iodinated contrast and
     is not appropriate in patients with CKD.
 
--   MRA - is performed with gadolinium-based contrast and is not appropriate
-    in patients with ESRD.
-    
+-   MRA - is performed with gadolinium-based contrast and is not
+    appropriate in patients with ESRD.
+
 Now that we've covered the basics, let's move through by organ-system
 high-yield vascular lab studies, findings, and pathologies. We'll start
 with the extracranial evaluation, a highly-tested area of vascular
-ultrasonography.    
+ultrasonography.
 
 ## Extracranial
 
@@ -204,8 +204,9 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide7.png"))
 
 This makes sense, as the ICA is supplying the brain while the ECA is
 supplying the face. Intuitively, the common carotid artery is a mixture
-of the ICA and ECA waveform morphologies - like the ICA with forward flow
-throughout diastole, but less as compared to the ICA due to the high-resistance influence of the ECA.
+of the ICA and ECA waveform morphologies - like the ICA with forward
+flow throughout diastole, but less as compared to the ICA due to the
+high-resistance influence of the ECA.
 
 Another way of differentiating the external and internal carotid
 arteries is the "temporal tap". Tapping on the superficial temporal
@@ -332,7 +333,8 @@ transcranial doppler (TCD).
 -   Three primary views: temporal, foraminal (occipital), orbital views
 
     -   **Temporal view:** Used to interrogate PCA, ACA, MCA, and ICA.
-        The MCA, ICA and PCA flow direction is towards the probe, the ACA flow direction is away.
+        The MCA, ICA and PCA flow direction is towards the probe, the
+        ACA flow direction is away.
 
     -   **Occipital view:** Basilar and vertebral arteries (both away).
 
@@ -390,8 +392,9 @@ Indications often tested:
 
 -   Vasomotor activity can be evaluated as well with TCD. Hypercapnia or
     breath-holding should result in vasodilation and increased flow.
-    Hypocapnia will result in decreased flow. No change in response to hyper or
-    hypocapnia can show poor cerebral autoregulation.[@müller1995]
+    Hypocapnia will result in decreased flow. No change in response to
+    hyper or hypocapnia can show poor cerebral
+    autoregulation.[@müller1995]
 
 -   Reversal of flow in the ophthalmic artery can be a sign of
     ipsilateral ICA occlusion.[@guan2013]
@@ -475,7 +478,8 @@ predominance and first-line treatment is smoking cessation.
 
 Before we segue to the lower extremities, this is a good time to discuss
 an entity frequently tested on the VSITE that constitutes for many
-vascular surgeons a notable portion of their practice: hemodialysis access, and specifically fistulas.
+vascular surgeons a notable portion of their practice: hemodialysis
+access, and specifically fistulas.
 
 [Fistulas]{.underline}: Ultrasound is one of the key modalities used in
 identifying suitable anatomy for fistula placement, suitability of a
@@ -596,11 +600,11 @@ wound healing is impaired and ischemia develops.
 perfusion?**
 
 [PVRs:]{.underline} Pulse volume recordings. Normal PVR waveforms have a
-rapid upstroke, sharp peak, prominent dicrotic notch and downslope.
-This typically uses 4 cuffs. High thigh cuff should be 30% greater than brachial
-pressure, hence a thigh-brachial index of 1.3 is normal. However,
-ABI/PVRs may not demonstrate significantly abnormal values/waveforms in
-individuals with single level disease.
+rapid upstroke, sharp peak, prominent dicrotic notch and downslope. This
+typically uses 4 cuffs. High thigh cuff should be 30% greater than
+brachial pressure, hence a thigh-brachial index of 1.3 is normal.
+However, ABI/PVRs may not demonstrate significantly abnormal
+values/waveforms in individuals with single level disease.
 
 ```{r echo=FALSE}
 
@@ -611,12 +615,12 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide13.png"))
 [Exercise Test:]{.underline} During exercise testing, patients are
 placed on a treadmill after baseline resting ABIs are measured. The
 patient is then asked to walk for 5 minutes or until physical discomfort
-requires test cessation. The point when the patient reports pain starts is
-the initial claudication distance and the point where the patient stops
-is defined as the absolute claudication distance. Diagnostic criteria
-for a positive test include a drop-in ankle pressure of greater than 20
-mmHg from baseline, drop in ABI greater than 0.2 from baseline, or
-inability of ankle pressures to return to baseline after 3
+requires test cessation. The point when the patient reports pain starts
+is the initial claudication distance and the point where the patient
+stops is defined as the absolute claudication distance. Diagnostic
+criteria for a positive test include a drop-in ankle pressure of greater
+than 20 mmHg from baseline, drop in ABI greater than 0.2 from baseline,
+or inability of ankle pressures to return to baseline after 3
 minutes.[@strandness1964]
 
 **So just to briefly summarize, what are parameters associated with poor
@@ -657,9 +661,9 @@ surveillance and is defined as the peak systolic velocity (PSV) at the
 site of a stenosis divided by the PSV in a normal vessel segment
 proximal to the stenosis.
 
--   The highest risk for graft thrombosis, and highest cause for concern,
-    is suggested by PSV \>300 cm/s, Vr \>3.5, a mid-graft flow velocity
-    \<45 cm/s or a drop in ABI \>0.15.
+-   The highest risk for graft thrombosis, and highest cause for
+    concern, is suggested by PSV \>300 cm/s, Vr \>3.5, a mid-graft flow
+    velocity \<45 cm/s or a drop in ABI \>0.15.
     [@bandykHemodynamicsVeinGraft1988; @zierler2018]
 
 -   Increased risk grafts have a PSV 180-300 cm/s and a Vr 2.0-3.5.
@@ -676,8 +680,8 @@ plasty.[@jongsma2016]
 
 Presenting with new swelling, pain and fluid around a prosthetic graft
 on duplex ultrasound may be a sign of underlying graft infection. PET
-and WBC scans may be positive up to 4 months after implantation, so do not
-provide much utility in the early post-operative period.[@puges2019]
+and WBC scans may be positive up to 4 months after implantation, so do
+not provide much utility in the early post-operative period.[@puges2019]
 
 ### Pathologies
 
@@ -724,9 +728,10 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide15.png"))
 
 #### Buerger's Disease {#buerger}
 
-Also known as thromboangiitis obliterans, this is a rare disease, but with characteristic findings on ultrasound of
-serpiginous/corkscrew collaterals, occlusion of distal calf/pedal
-arteries, and normal proximal arteries.[@busch2011; @fujii2011]
+Also known as thromboangiitis obliterans, this is a rare disease, but
+with characteristic findings on ultrasound of serpiginous/corkscrew
+collaterals, occlusion of distal calf/pedal arteries, and normal
+proximal arteries.[@busch2011; @fujii2011]
 
 For more see \@ref(buergers-disease)
 
@@ -741,7 +746,8 @@ the popliteal artery in the lower extremity and leading to stenosis or
 occlusion. Duplex imaging of the popliteal artery will demonstrate an
 anechoic or hypoechoic *intraluminal* region with a smooth contour and
 stenosis documented by velocity increase on spectral doppler.
-Angiography will often show a classic "scimitar" sign - a smooth well-defined crescent-shaped defect.[@shaw2007; @winn2015]
+Angiography will often show a classic "scimitar" sign - a smooth
+well-defined crescent-shaped defect.[@shaw2007; @winn2015]
 
 ```{r echo=FALSE}
 
@@ -891,8 +897,8 @@ normalize if stenosis is secondary to MALS.[@tembey2015]
 
 [Hepatic artery thrombosis:]{.underline} Mesenteric duplex is often
 performed in liver transplant patients. Hepatic artery thrombosis most
-often occurs within the first 30 days after liver transplantation, with an
-incidence of 1.5-9% and a mortality rate of 75%.[@garcía-criado2009;
+often occurs within the first 30 days after liver transplantation, with
+an incidence of 1.5-9% and a mortality rate of 75%.[@garcía-criado2009;
 @sanyal2012]
 
 ### Portal Vein
@@ -906,14 +912,14 @@ abnormal portal venous flow is hepatofugal (away from the liver). (The
 root "fugua" means to flee, or flight). Flow should be in the same
 direction as the hepatic artery.
 
-Other abnormalities that may be visualized are portal vein
-thrombosis - often associated with portal venous hypertension in
-patients with chronic cirrhosis, hepatitis, or hepatocellular carcinoma.
-Acute portal vein thrombosis on ultrasound demonstrates dilatation of
-the portal vein with hypoechoic intraluminal thrombus. Chronic portal
-vein thrombosis is characterized by a contracted vein with
-heterogeneous/hyperechoic echoes and may be associated with collateral
-formation.[@chawla2015; @nouvini2013]
+Other abnormalities that may be visualized are portal vein thrombosis -
+often associated with portal venous hypertension in patients with
+chronic cirrhosis, hepatitis, or hepatocellular carcinoma. Acute portal
+vein thrombosis on ultrasound demonstrates dilatation of the portal vein
+with hypoechoic intraluminal thrombus. Chronic portal vein thrombosis is
+characterized by a contracted vein with heterogeneous/hyperechoic echoes
+and may be associated with collateral formation.[@chawla2015;
+@nouvini2013]
 
 Mesenteric duplex can also assess for functioning of TIPS (transjugular
 intrahepatic portosystemic shunt). A sign of a failing TIPS is portal
@@ -1200,8 +1206,8 @@ on exams:
 Doppler](https://radiopaedia.org/articles/continuous-wave-doppler?lang=us),
 pulsed wave and color flow Doppler are characterized by rapid pulses of
 ultrasound waves (at a rate called the pulse repetition frequency).
-The [Nyquist
-limit](https://radiopaedia.org/articles/nyquist-limit?lang=us) defines
+The [Nyquist
+limit](https://radiopaedia.org/articles/nyquist-limit?lang=us) defines
 the frequency at which aliasing will occur, as equal to the PRF/2. So
 what does this mean practically? In pulsed wave doppler, if the velocity
 of blood is greater than ½ the PRF, the peak velocity will be cut off,
