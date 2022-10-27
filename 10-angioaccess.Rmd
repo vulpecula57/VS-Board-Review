@@ -217,6 +217,11 @@ however they have lower patency rates and higher infection rates. There
 is no difference between grafts and fistulas for perioperative morbidity
 and mortality.[@macsata2019]
 
+Most prosthetic access will fail because of the development of venous outflow stenosis as a result of smooth muscle proliferation at vein graft interface. Thus, a major cause of graft failure is due to thrombosis. Heparin-bonded PTFE (HB-PTFE) grafts are an options, however, studies have shown no improvement in graft patency with HB-PTFE compared to standard PTFE grafts. (PMID: 25770987) (PMID: 27183857)
+
+There are also early cannulation prosthetic grafts, which is another option for patients who need more immediate dialysis access. These grafts are constructed in 3 layers with an elastomeric membrane in the middle between two layers of ePTFE material. This allows for cannulation as early as 24 hours from implantation because the graft configuration minimizes dialysis needle bleeding. This graft options allows for avoidance of a central venous catheter. Studies have shown similar patency rates compared to standard ePTFE, earlier cannulation and catheter removal, and decreased catheter related complications. (PMID: 29843554) (PMID: 30528400)
+
+
 **For patients with central venous stenosis or occlusion, what is
 another alternative upper extremity access creation?**
 
