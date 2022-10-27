@@ -253,6 +253,9 @@ coupler at the deltopectoral groove. If you need more immediate
 dialysis, the super HeRO comes to the rescue in which the graft portion
 is the early cannulation graft.
 
+For patients with thoracic central venous occlusion, there is also the SURFACER inside-out access catheter system. This is a device used to cross central occlusions from the right femoral vein. It allows placement of a tunneled central venous catheter, but it can also be utilized as an adjunct for HeRO placement. In a multicenter study, the results from the SAVE (Surfacer System to Facilitate Access in Venous Obstructions) registry showed that in 29 or 30 patients with thoracic central venous occlusion, a central venous catheter was successfully placed. Moreoever, there were no device-related adverse events, catheter malposition, or intra- or postprocedural complications. (PMID: 32951972).
+
+
 Hybrid catheter/grafts are good alternatives in patients with previous
 line infections, central stenosis, peripheral vascular disease and no
 suitable vein in the upper extremities. They have shown fewer bacteremia
@@ -279,6 +282,9 @@ thrombosis during the anastomosis and an anastomosis is created between
 the side of the artery and the end of the vein. A 6-0 or 7-0
 nonabsorbable continuous suture should be used to create the anastomosis
 to avoid future dilation of the anastomosis.
+
+For prosthetic accesses, the length of the arteriotomy does not have to be limited to
+4 to 6mm since the incidence of arterial steal is limited by the graft diameter. Both arterial inflow and venous outflow vessels need to be dissected prior to graft anastomoses. The graft should be tunneled close to the surface of the skin to allow for easier cannulation. Meticulous attention to sterile technique is important to avoid graft infections. And as with the fistula creations, a 6-0 or 7-0 nonabsorbable continuous suture should be used to create the anastomosis to avoid future dilation of the anastomosis.
 
 **What are some other options if an access is not able to be created in
 the upper extremity?**
