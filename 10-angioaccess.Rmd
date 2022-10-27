@@ -141,8 +141,8 @@ considered next follow by venous translocation.
 
 Venous transposition is for deeper veins such as the basilic vein, which
 is transposed so the vein lies just below the skin for easier access for
-puncture during dialysis sessions. Transpositions are generally a
-2-stage procedure in which the direct arteriovenous anastomosis is
+puncture during dialysis sessions. This can be done in either a one-stage or two-stage procedure. In a 
+2-stage procedure, the direct arteriovenous anastomosis is
 created during the first stage and once the vein has arterialized 4-6
 weeks later, the second stage of transposition is done when the vein is
 easier to mobilize. Translocation procedures include harvesting the
@@ -151,7 +151,7 @@ creation in the upper extremity.
 
 **When can a venous transposition be done in a one stage procedure?**
 
-When the vein is \>4mm. When a patient has not been initiated on
+Many surgeons will do a brachiobasilic arteriovenous fistula creation with the transposition in one-stage. However, if the vein is \<4mm, it is generally recommended to do a two-stage procedure so that if the fistula fails to mature, the patient does not have to undergo a second operation with extensive dissection of the vein. When a patient has not been initiated on
 dialysis and there is marginal vein that would require transposition,
 but carry a significant risk of graft failure then a first-stage BB
 fistula may be appropriate.
