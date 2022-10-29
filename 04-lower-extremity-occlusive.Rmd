@@ -26,7 +26,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part_1_postEQ.mp3")
 
 ```
 
-**What is Peripheral Arterial Disease (PAD)?**
+**What is Peripheral Artery Occlusive Disease (PAOD)?**
 
 Peripheral Arterial Disease encompasses extremity arterial disease but
 generally is used to describe lower limb arterial occlusive disease.
@@ -44,27 +44,29 @@ The understanding of the underlying pathophysiology which results in
 occlusive arterial disease of the lower limb has evolved over the 
 last 50 years. Atherosclerosis remains the main pathological process resulting
 in occlusive disease with smoking being the primary modifiable risk factor.  
-Although the rising incidence of diabetes has created a second population
-of patients with a signficant PAOD burden.
+Although with the rising incidence of diabetes a second population
+of patients with a signficant PAOD burden has developed.
 
-Atherosclerosis, in summary, begins with an injury to the intimal lining
-of the arterial wall, which can result from smoking, hypertension or
-advanced age and ultimately a chronic inflammatory reaction resulting in
-plaque build up and calcification that may result in progressive
-stenosis and occlusion or plaque rupture with acute occlusion.
+Atherosclerosis begins with an injury to the intimal lining
+of the arterial wall, which, for example, can result from smoking, 
+hypertension, hyperglycaemia, or advanced age. Repeated injury 
+leads to a chronic inflammatory process resulting in intimal
+plaque build up and calcification that may result in progressive 
+vessel stenosis and subsequent occlusion, or plaque rupture 
+with acute occlusion.
 
 **What are the risk factors for atherosclerosis?**
 
-Modifiable:
+**Modifiable:**
 
 1.  ***Smoking***
 
     -   The **most significant modifiable risk factor** for developing
-        peripheral arterial disease
+        peripheral arterial disease.
 
     -   Causes Endothelial dysfunction by reducing nitric oxide and
         triggering reactive-oxygen species
-        [@unitedstatessurgeongeneralHealthConsequencesSmoking2014]
+        [@unitedstatessurgeongeneralHealthConsequencesSmoking2014].
 
     -   Causes a prothrombotic environment by causing an increase in
         thromboxane A2 and decreasing Prostacyclin thus overall
@@ -75,7 +77,7 @@ Modifiable:
         claudication than with Coronary Artery Disease!
         [@gordonPredispositionAtherosclerosisHead1972]
 
-2.  ***Diabetes , Metabolic Syndrome and Insulin Resistance***
+2.  ***Diabetes, Metabolic Syndrome, and Insulin Resistance***
 
     -   Diabetes Mellitus, after smoking, is the most significant
         modifiable risk factor for developing peripheral arterial
@@ -105,20 +107,20 @@ Modifiable:
         reduction in LDL.
         [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007]
 
-Non Modifiable:
+**Non-Modifiable:**
 
-1.  **Age**
+1.  ***Age***
 
     -   Age is identified as a risk factor for PAD regardless of gender.
 
     -   Prevalence of PAD increases with age: 15% \> 70 years of age.
 
-2.  **Gender**
+2.  ***Gender***
 
     -   The Framingham Study has found that the risk of developing PAD
         is doubled in men.
 
-3.  **Ethnicity**
+3.  ***Ethnicity***
 
     -   The MESA study showed a higher prevalence of PAD (ABPI \<0.9) in
         African Americans compared to Whites. 7.2% versus 3.6%.
@@ -130,25 +132,25 @@ Non Modifiable:
         (p\<0.01) [@allisonEffectNovelCardiovascular2006]
 
 **What are the some of the major population-based trials looking at the
-natural history?**
+natural history of atherosclerotic disease?**
 
-1.  The Framingham Heart Study: The original Cohort from the town of
-    Framingham, n=5183 patients followed over time for over 30 years.
+1.  ***The Framingham Heart Study***: The original Cohort from the town of
+    Framingham, n=5183 patients, followed over time for over 30 years.
     There have been multiple subsequent recruited populations since. The
     majority of information we have about risk factors related to
     cardiovascular health comes from this study.
     [@mahmoodFraminghamHeartStudy2014]
 
-2.  The Rotterdam Study: 1990, Longitudinal Study, \>7000 particpants.
+2.  ***The Rotterdam Study***: 1990, Longitudinal Study, \>7000 particpants.
 
-3.  CVHS -- 1989-1999 Longitudinal Study : n\>5000 Multicentre Study.
+3.  ***CVHS***: 1989-1999 Longitudinal Study : n\>5000 Multicentre Study.
 
-4.  MESA -- Cross Sectional analysis 6653 subjects all with ABPI
+4.  ***MESA***: Cross Sectional analysis 6653 subjects all with ABPI
     assessment revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic
     Whites: 3.6%, Asian: 2%, African American: 7.2% and Hispanic: 2.4%.
     (p\<0.01) [@allisonEffectNovelCardiovascular2006]
 
-5.  The Edinburgh Study: The EAS began as a cross sectional study of
+5.  ***The Edinburgh Study***: The EAS began as a cross sectional study of
     1592 men and women in Edinburgh with the goal of examining the
     frequency of risk factors for peripheral arterial disease. The
     subjects were followed over 20 years.
@@ -159,19 +161,25 @@ natural history?**
 -   Increasing Incidence of Diabetes world-wide.
     [@boultonGlobalBurdenDiabetic2005]
 
-    -   2.8% in 2000, 4.4% in 2030
+    -   2.8% of the global population affected by diabetes in 2000, 
+        estimated to be 4.4% by 2030. 
 
-    -   25% of patients with diabetes develop a DFU at some stage in
-        their lives
+    -   25% of patients with diabetes develop a dabetic foot ulcer (DFU),
+        at some stage in their lives. 
 
-    -   Limb Loss every 20 seconds world-wide to Diabetes
+    -   Limb Loss occurs every 20 seconds world-wide to due to Diabetes
+        releted PAOD or infection. 
 
 **What's the pathophysiology of Diabetes and PAOD**
 [@armstrong26PathophysiologyPrinciplesManagement2012]
 
 -   Sensory Neuropathy, Motor Neuropathy and Autonomic Neuropathy
 
+   +
+
 -   Structural and Gait abnormalities
+
+   +
 
 -   Arterial disease
 
@@ -181,19 +189,23 @@ natural history?**
 
     -   Both
 
+   =
+
 -   Foot infection[@bandyk2018; @kayssi2019; @lepäntalo2011]
 
-Given this diverse and confounding pathology the normal progressive
-history of PAD is somewhat different. What's most concerning is the
-neuropathy resulting in initial presentation being ulceration. This
-results in a lack of a 'safety net' where presenting with progressive
+Given the pathological effect of diabetes upon multiple structures and 
+systems the normal progressive history of diabetes related PAOD is somewhat 
+different to smoking related PAOD. Clinically due to the combined effect of 
+peripheral neuropathy and microvascular aterial diease, foot ulceration for
+many patients tends to be the intial presentation. 
+This results in a lack of a 'safety net' where presenting with progressive
 claudication allows for a period of detection, management and and risk
 factor modification before they develop tissue loss and are at risk of
-amputation.
+amputation, leading to poor outcomes and greater morbidity and mortality.
 
-Since 2014 and the publication of WIfI a lot has changed in the way we
-view PAD leading up to last years new Global Vascular Guidelines on
-CLTI, which as a term has replaced CLI.
+Since the publication of WIfI in 2014 a lot has changed in the way we
+view PAOD leading up to last years new Global Vascular Guidelines on
+CLTI, which as a term has replaced CLI (see relevant subchapter).
 [@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
 
 ## Intermittent Claudication
