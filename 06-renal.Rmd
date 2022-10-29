@@ -1,7 +1,10 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
+output:
+  pdf_document: default
+  word_document: default
 ---
 
 # Renal
@@ -1402,14 +1405,17 @@ imaging. [@asgharRenalVeinThrombosis2007;
 Relatively common complication of renal biopsy (9-18%).
 [@schwarzCourseRelevanceArteriovenous2008]
 
-Presentation - bruit over kidney, renal impairment, varicocele,
-hematuria and abdominal pain. [@hunter174AcquiredArteriovenous2019]
+### Presentation
+
+Bruit over kidney, renal impairment, varicocele, hematuria and abdominal
+pain. [@hunter174AcquiredArteriovenous2019]
+
+### Evaluation
 
 Diagnose with duplex, CTA or MRA.
 
--   Duplex will show marked turbulence, elevated PSV and high end
-    diastolic flow, low resistive index.
-    [@ozbekImagedirectedColorDoppler1995]
+Duplex will show marked turbulence, elevated PSV and high end diastolic
+flow, low resistive index. [@ozbekImagedirectedColorDoppler1995]
 
 Management
 
