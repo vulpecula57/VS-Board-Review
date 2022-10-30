@@ -409,42 +409,61 @@ other associated diseases, it's a massive underestimate
 thrombophlebitis. What is it and how do you manage it?**
 
 I'm very pleased you used both terms because I'm going to take the
-opportunity to encourage robustly the use of superficial vein thrombosis
-rather than thrombophlebitis. The problem with thrombophlebitis is it is
-too closely associated with an infectious etiology. And I can only
-imagine how many useless courses of antibiotics have been prescribed for
-the treatment of what has been presumed to be an infection. Of course,
-there's no infection, it's a thrombus in a superficial vein. I think
-what's really important is that traditionally it's been seen as just a
-bit of a nuisance and let's not worry about it, treat with analgesia and
-anti-inflammatories, and you'll be fine.
+opportunity to encourage robustly the use of **superficial vein
+thrombosis** rather than thrombophlebitis. The problem with
+thrombophlebitis is it is too closely associated with an infectious
+etiology, which can lead to useless courses of antibiotics. Of course,
+there's no infection, it's a thrombus in a superficial vein.
+Traditionally, it's just been seen as just a bit of a nuisance and let's
+not worry about it, treat with analgesia and anti-inflammatories, and
+you'll be fine.
 
-It's a really sinister pathology and an important cause of VTE. And
-again, if you think about it, think of how many thousands, millions of
-people that have varicose veins. They don't all get clots in their
-varicose veins. They've all got stasis to a certain extent but they
-don't get clots. So it's more than just the flow dynamics is going on
-here. These people are thrombogenic. They have a thrombogenic innate
-quality that leads to this. That's shown out in the study, some really
-good work in some French studies. They identified patients who were
-scanned with superficial vein thrombosis, and a quarter of them on their
-first duplex scan had a DVT. A lot of these DVTs were remotes from the
-superficial vein thrombosis. So they're not all extending into the deep
-vein---they were remote---confirming this idea that actually a
-thrombogenic problem is going on here.
+It's can be a really sinister pathology and associated with VTE. If you
+think of how many thousands, millions of people that have varicose
+veins. They don't all get clots in their varicose veins. They've all got
+stasis to a certain extent but they don't get clots. So it's more than
+just the flow dynamics going on here. These people likely have an
+thrombogenic innate quality that leads to this. That's shown out in the
+study, some really good work in some French studies. They identified
+patients who were scanned with superficial vein thrombosis, and a
+quarter of them on their first duplex scan had a DVT. A lot of these
+DVTs were remotes from the superficial vein thrombosis.[@decousus2010]
+So they're not all extending into the deep vein---they were
+remote---confirming this idea that actually a thrombogenic problem is
+going on here. A patient with superficial vein thrombus and a previous
+history of DVT could suggest a subsequent risk of VTE up to 20%.
 
 So in the latest ESVS guidelines, there is quite a lot of stuff about
 SVT treatment algorithms. I would urge people to have a look at that,
-and it's important to risk stratify people. The closer you are to the
+and it's important to risk stratify people. Limited disease can be
+followed with ultrasound at 1-2 weeks, but the closer you are to the
 junction, the higher VTE risk, and actually for anyone other than just a
 bit of clot in a varicosity, anticoagulation is the treatment of choice
-to reduce progression to VTE.
+to reduce progression to VTE.[@kakkos2021; @dinisio2018; @scovell2018]
 
-So look at the guidelines, it's very clear what we should be doing with
-these people, evidence-based, Once the anticoagulation is done, they
-need to be re-scanned and that residual incompetent, scarred
-thrombogenic, saphenous vein needs to be ablated, otherwise they'll
-recur. So a real change in mindset and level of aggression.
+| NSAIDs and Warm Compresses |     Anticoagulation      |
+|:--------------------------:|:------------------------:|
+|     Low risk Patients      |    High risk patients    |
+|   Segment less than 5cm    | Segment greater than 5cm |
+|      Remote from SFJ       |  Less than 5cm from SFJ  |
+
+CALISTO is the largest RCT and used treatment with 2.5mg SC
+Fondaparinux.[@calistostudygroup2010; @blondon2012] Rivaroxaban did
+subsequently demonstrate non-inferiority.[@werth2016] So look at the
+guidelines, it's very clear what we should be doing with these people,
+evidence-based, Once the anticoagulation is done, they need to be
+re-scanned and that residual incompetent, scarred thrombogenic,
+saphenous vein needs to be ablated or excised, otherwise they'll recur.
+So a real change in mindset and level of aggression.[@kakkos2021;
+@dinisio2018; @scovell2018]
+
+Pregnant patients are often high risk for lower extremity venous
+complications and pose difficult clinical challenges. Extensive
+superficial vein thrombus in pregnant patients should be treated with
+LMWH and paused at delivery.[@kupelian2007; @litzendorf2011] If symptoms
+persist 3-6mo after delivery, the further workup for pelvic congestive
+syndrome may be required with a transvaginal ultrasound or cross
+sectional imaging.[@labropoulos2017]
 
 #### Bleeding
 
@@ -482,7 +501,9 @@ guidelines. In the most part, calf DVTs are managed by medical teams or
 dedicated DVT services within the hospital. So in this section, we'll be
 focusing mostly on proximal DVT.**
 
-### Physiology
+### Demographics
+
+#### Physiology
 
 **In medical school, we've learned a lot about Virchow's triad and the
 etiology of venous thrombosis. Does that simple concept still hold true
@@ -496,7 +517,19 @@ mindset about the whole idea of provoked and unprovoked DVT. Again, I
 would urge people to look at some of the new areas that we've covered in
 these guidelines.
 
-### Etiology
+#### Prevalence
+
+Incidence of DVT increases with age by a factor of 1.9 per 10 years.
+
+Of patients who develop DVT, 1% will have phlegmasia and 10% may develop
+a pulmonary embolism.
+
+For post-thrombotic syndrome, 17% will develop at 1 year and 29% by 8
+years after the initial DVT. For recurrence, 30% will develop over 10
+years but the highest risk for recurrence is in the first
+year.[@beckman2010; @bulger2004; @meissner2007]
+
+#### Etiology
 
 **You mentioned there about potential risk factors for DVT, and that can
 be classified into these provoked, which can be transient or persistent,
@@ -505,7 +538,7 @@ specific factors and causes?**
 
 In general, what's been happening for several years is a recognition
 that there are some DVTs that happened with a clear provoking
-factor---the communist major, transient, provoking factor is something
+factor---the commonist major, transient, provoking factor is something
 like surgery, for example. So a lot of DVT are caused with that clear
 provoking factor, but there's an enormous population of people that
 don't have a clear provoking factor at all, or have a minor factor that
@@ -536,11 +569,27 @@ answering your question. But here are some risk factors:
     -   Shorter periods of immobility - a few days sick in bed with the
         flu
 
-    -   Contraceptive pill - deending on whether it was just started or
+    -   Contraceptive pill - depending on whether it was just started or
         the patient has been taking for two to three years
 
 In the guideline document is a big, long list of other things where for
 people to think about it and consider.
+
+In this review we are discussing mostly lower extremity DVTs, however
+catheter-associated DVTs are sometimes encountered on examinations. In
+general the DVT is considered to be a result of the line. However,
+management is treatment of the DVT with or without line removal. If the
+line is functioning well and the patient requires the line for other
+therapy, then simply treating the DVT with anticoagulation should be
+sufficient.[@kearon2016; @kovacs2007] Treatment is similar in patients
+with cancer.[@debourdeau2009]
+
+Prevention is a key component to mitigating the impacts of DVT. One of
+the more common risk stratification tools in the United States is the
+Caprini risk assessment model.[@bahl2010] Patients identified to be high
+risk according to the Caprini risk index require mechanical prophylaxis,
+pharmacological prophylaxis and early ambulation.[@gould2012;
+@laryea2013]
 
 **In those patients where, after you've taken a thorough history,
 there's no obvious provoking factors. Is there a role for screening for
@@ -580,6 +629,10 @@ demonstrable improvement in outcome has meant that the guidelines have
 not recommended routine cancer screening beyond the appropriate age and
 sex specific screening---PSA, breast assessments, colonoscopy, etc.
 
+One unique situation is recurrent or migratory superficial vein
+thrombosis, particularly in older patients, can be associated with an
+underlying malignancy.[@litzendorf2011]
+
 ### Evaluation
 
 **What is the algorithm for investigation?**
@@ -589,6 +642,7 @@ which is an assessment of the pre-test probability of DVT. So anyone who
 comes with a DVT, you can go through a validated tool. The most common
 is the Wells probability score, which is a series of questions and give
 you an indication as to whether a DVT is likely or unlikely.
+[@tritschler2018]
 
 If a DVT is likely, then the algorithm is to do a scan, very
 straightforward. If a DVT is unlikely, then the algorithm is to do a
@@ -598,6 +652,11 @@ our radars as vascular specialists at all until the DVT has been
 diagnosed, so we don't appreciate the importance of the early stages. So
 again, a quick plug for the guidelines, there's a very nice algorithm,
 beautiful colors---I definitely recommend having a look.
+
+On ultrasound, acute DVT is characterized by an enlarged vein with a
+non-compressible lumen and hypoechoic thrombus. Chronic thrombus is
+often contracted with echogenic appearance.[@yusof2019] For more
+details, see \@ref(sec-venous).
 
 ### Management
 
@@ -630,10 +689,13 @@ an even load those with even lower bleeding risk.
 
 And the real icing on the cake for the DOAC has been a few recent
 studies that have been looking at cancer patients. Traditionally cancer
-patients where low-molecular weight heparin only, not for DOACs. But the
-Hokusai study[@raskob2018] and the Caravaggio study[@agnelli2020] more
-recently have both looked at Edoxaban and Apixaban in the context of
-cancer and have shown that actually they're very effective.
+patients where low-molecular weight heparin only, not for
+DOACs.[@kearon2016] But the Hokusai study[@raskob2018] and the
+Caravaggio study[@agnelli2020] more recently have both looked at
+Edoxaban and Apixaban in the context of cancer and have shown that
+actually they're very effective. In addition, a recent meta-analysis
+found that recurrence rates were lower with DOACs, but bleeding rates
+were no different.[@dong2019; @rossel2019]
 
 In almost all of the areas, DOACs are demonstrating their superiority.
 The one very notable exception is antiphospholipid syndrome,
@@ -672,6 +734,48 @@ use it for. What we want to see now is the DVT pathways around the
 country, around the world, updated and amended with this latest
 guidance.[@kakkos2021]
 
+##### Complications - Pulmonary Embolism
+
+More and more vascular surgeons are becoming involved with Pulmonary
+Embolism Response Teams (PERT) and so surgeons should be familiar with
+the acute management of DVTs that progress to pulmonary embolism. The
+majority of pulmonary embolisms simply require anticoagulation.
+
+However, if a patient becomes hemodynamically unstable, such as develops
+hypotension, then the patient should undergo systemic
+thrombolysis.[@kearon2016] Contraindications to systemic thrombolysis
+include:
+
+-   Age \>75
+
+-   Intracranial neoplasm
+
+-   Intracranial/spinal surgery or trauma with the last 2 months
+
+-   History of hemorrhagic stroke
+
+-   Active bleeding or known bleeding disorder
+
+-   Nonhemorrhagic stroke within the past 3 months.
+
+Patients who do not immediately respond to systemic thrombolysis, are a
+high risk of bleeding, or in shock that may cause death before
+thrombolytics take effect, then catheter based thrombus removal may be
+considered. This complex decision making is best made through the
+previously mentioned PERT.[@xenos2019] Endovascular techniques include:
+
+-   Thrombus fragmentation
+
+-   Suction thrombectomy
+
+-   Rotational embolectomy
+
+-   Ultrasound assisted thrombolysis
+
+There are very high risk procedures and complications include pulmonary
+artery perforation, pericardial tamponade, cardiogenic shock,
+hemaglobinuria or other hemorrhagic complications.
+
 ##### Complications - Post Thrombotic Syndrome
 
 **One of the concerning complications of a DVT, particularly a proximal
@@ -709,11 +813,15 @@ So short answer is I virtually never consider one, and if already in
 situ, remove as soon as possible. Let's expand on this a little bit. So
 the history of IVC filters is a painful story, particularly in the US,
 super aggressive use of IVC filters, very few of them retrieved, lots of
-IVC occlusions, and major lawsuits against big companies. That's led to
-a worldwide, reluctance to use IVC filter, so now we may not be using
-them in some cases when we should be using them. The traditional
-indications and reasons for using IVC filters included weird and
-wonderful things like floating thrombus and other factors.
+IVC occlusions, and major lawsuits against big companies. The most
+important factor in successful IVC filter retrieval is dwell time less
+than 7 months. Type of filter, tilting or protruding struts are not
+associated with failure. Adverse events have found to be as high as
+2%.[@desai2017] That's led to a worldwide, reluctance to use IVC filter,
+so now we may not be using them in some cases when we should be using
+them. The traditional indications and reasons for using IVC filters
+included weird and wonderful things like floating thrombus and other
+factors.
 
 The reality is the only real indication that we could come up with was
 when there's a proximal DVT, and there's a clear contraindication to
@@ -726,6 +834,18 @@ strain, there may be some anatomical features that you're worried about,
 their anticoagulant control is borderline---there might be specific
 cases, but this is really very rare. Most people anticoagulated do not
 need an IVC filter.
+
+A rather challenging and unique patient would be a pregnant patient with
+a DVT and placenta previa. Anticoagulation is contraindicated in
+placenta previa and in addition, an infrarenal IVC filter is also
+contraindicated, so she would require a suprarenal IVC
+filter.[@bates2018; @deyoung2016; @harris2016]
+
+In the setting of a thrombosed filter, a patient may require urgent
+intervention if they develop phlegmasia. Suprarenal filter placement may
+be useful during the procedure to prevent embolization. Removal of the
+IVC filter is contraindicated unless all clot is cleared.[@sheth2015;
+@teter2019]
 
 #### Surgery
 
@@ -872,7 +992,11 @@ venous outflow. So the venous blood in the leg cannot escape. You get
 this cycle of worsening pressure, leaking of fluid from the capillaries,
 increasing pressure on the soft tissues. Then that starts to threaten
 tissue perfusion and potentially if it's bad enough this will threaten
-the actual arterial profusion of the leg as well.
+the actual arterial profusion of the leg as well. Presentation often
+includes iliofemoral DVT with non-palpable pulses and loss of sensation
+with out improvement on anticoagulation and elevation. Catheter directed
+thrombolysis is the first line with fasciotomies, with open thrombectomy
+as back up for salvage.[@erdoes2011; @thomas2019]
 
 So that's the sort of most severe and extreme form. I don't think
 anybody has confidently linked the anatomical findings and features of a
@@ -930,15 +1054,20 @@ reading.[@may1957] There were a couple of Austrian pathologists who were
 looking at kind of various specimens and they identified that a very
 high proportion of people, particularly those had left-sided DVT had,
 not only the overriding iliac artery causing compression, but they had a
-secondary tight fibrosis in the iliac vein. So it's not just the
-compression because any one of us in a certain position we'll have a
-squashed vein. It's the fact that there's a secondary inflammatory
-fibrotic change, which is what's causing the obstruction. So that's a
-true May-Thurner or non-thrombotic lesion.
+secondary tight fibrosis in the iliac vein.[@nazzal2015] So it's not
+just the compression because any one of us in a certain position we'll
+have a squashed vein. It's the fact that there's a secondary
+inflammatory fibrotic change, which is what's causing the obstruction.
+So that's a true May-Thurner or non-thrombotic lesion.[@liddell2018;
+@rollo2017]
 
 The other big group of patients of course, is malignant lymph node or
-retroperitoneal fibrosis related venous outflow obstruction. But
-post-thrombotic by far was the most commonly diagnosed pathology.
+retroperitoneal fibrosis related venous outflow obstruction. For
+example, a patient with a large retroperitoneal leiomyosarcoma may be
+involving the vena cava. In this case, these patients may require en
+bloc resection of the IVC and reconstruction with ringed PTFE, sized off
+the preoperative imaging.[@quinones-baldrich2012; @fiore2012] But in the
+end, post-thrombotic by far was the most commonly diagnosed pathology.
 
 ### Evaluation
 
@@ -1017,7 +1146,9 @@ modalities. We did our first 30 or so cases of deep venous stenting
 without IVUS and thought we were brilliant and IVUS was a waste of
 money. And then we started using IVUS and realized I can't believe we
 were doing this without. Once you start using it, you suddenly realize
-that it's a really useful adjunct.
+that it's a really useful adjunct. Recommended oversizing for vein
+stenting is 10-15% of largest diameter of adjacent vein.[@gloviczki2011;
+@odonnell2014; @raju2002; @raju2010]
 
 In terms of when you use it, in some parts of the world it's commonly
 used for diagnostic because the risk of over-diagnosis, but more
@@ -1176,7 +1307,7 @@ So again, I would go back to clinical symptoms as the single most
 important thing. If they've got severe clinical symptoms majorly
 affecting their quality of life and associated significant venous
 changes, then those people to try to intervene on. It's not necessarily
-a benign procedure. Pevlic vein embolization involves implantation of
+a benign procedure. Pelvic vein embolization involves implantation of
 coils. There's concerns about non-targeted embolization coils have ended
 up in lungs. There are a number of people with unknown nickel allergies
 that have problems with these coils. So again, it's not an area to be
@@ -1196,6 +1327,18 @@ gynecologists. There are gynecological diagnoses that need excluding
 before we start to address the venous disease. And there are a number of
 validated questionnaires and other assessment tools that are probably
 quite important. So not for the faint-hearted.
+
+## Superior Vena Cava (SVC) Syndrome
+
+SVC syndrome is an acute presentation of head and neck venous congestion
+often due to SVC obstruction. This can be intrinsic due to indwelling
+catheters or extrinsic due to malignancy.[@kalra2019]
+
+SVC syndrome secondary to malignancy, bronchogenic or lymphoma, is often
+most effectively treated with palliative radiotherapy with good
+response.[@talapatra2016] Endovascular or open recannalization is often
+reserved only for those with severe symptoms refractory to radiation or
+chemotherapy. Lymphedema pumps can help with symptom management as well.
 
 ## Venous Trauma
 
