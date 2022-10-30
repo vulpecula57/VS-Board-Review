@@ -858,11 +858,15 @@ techniques. It used to be very popular, a very satisfying technique---I
 think I've done it three times. They've all been for the same sort of
 indication, which is phlegmasia, severe limb threatening post DVT
 change, and in a patient where they couldn't tolerate anticoagulation
-and therefore weren't candidates for thrombolysis. So you're with a
-patient where the leg is threatened, you can't anticoagulate them, you
-can't thrombolize them. Then in that case this is a sort of last ditch
-approach. But if that's not the case, then almost always a catheter
-based approach is less invasive and more acceptable.
+and therefore weren't candidates for thrombolysis. One commonly tested
+contraindication is a patient with metastatic cancer including brain
+metastases. This is a contraindication to thrombolysis and so should be
+initially managed with anticoagulation and compression
+therapy.[@vedantham2016] However, if you're with a patient where the leg
+is threatened, you can't anticoagulate them, you can't thrombolize them.
+Then in that case this is a sort of last ditch approach. But if that's
+not the case, then almost always a catheter based approach is less
+invasive and more acceptable.
 
 In addition, most people have got more training. Trainees should read
 some of the descriptions of open thrombectomy--- it's a very satisfying
@@ -943,13 +947,13 @@ actually their results were still reasonable.
 
 I think once you get on the roller coaster of thrombus removal, it's
 very difficult not to then proceed also to stenting, if you see a
-significant lesion, for example, at the May-Thurner point. Final
-comment, I'll make is that the use of recanalization and stenting for
-chronic PTS is a very effective technique. So another approach, if
-you're not sure, is to manage them conservatively, but always have that
-up your sleeve, if they get significant PTS at six months, no earlier,
-then we could potentially consider recanalizing and stenting at that
-point.
+significant lesion, for example, at the May-Thurner point.[@wang2018;
+@meissner2012; @rollo2017] Final comment, I'll make is that the use of
+recanalization and stenting for chronic PTS is a very effective
+technique. So another approach, if you're not sure, is to manage them
+conservatively, but always have that up your sleeve, if they get
+significant PTS at six months, no earlier, then we could potentially
+consider recanalizing and stenting at that point.
 
 **Following thrombolysis, what duration of anticoagulation is
 required?**
@@ -1118,8 +1122,12 @@ gets very messy.
 I think the sort of people that have got clear signs and symptoms of
 major venous outflow obstruction, particularly things like venous
 claudication, history of previous DVT, really disproportionate venous
-changes to the superficial and the infrainguinal imaging. Those are the
-people that I would image.
+changes to the superficial and the infrainguinal imaging. Proximal
+obstruction can present with atypical proximal varicose veins in the
+mons pubis, perineum, buttock, high posterior/lateral thigh, abdominal
+wall. These findings are 93% predictive of deep venous obstruction
+proximal to the inguinal ligament.[@kurstjens2016] Those are the people
+that I would image.
 
 And on the duplex imaging of the leg, if there are changes in the common
 femoral vein that make you think there is a proximal problem,
@@ -1153,7 +1161,10 @@ stenting is 10-15% of largest diameter of adjacent vein.[@gloviczki2011;
 In terms of when you use it, in some parts of the world it's commonly
 used for diagnostic because the risk of over-diagnosis, but more
 commonly, almost routinely, for therapeutic, particularly when we're
-stenting deep veins to plan our landing zones.
+stenting deep veins to plan our landing zones. When CTA/MRA shows
+compression, it must be confirmed with IVUS prior to treatment. IVUS has
+far greater sensitivity and specificity and must show a cross-sectional
+surface area reduction of greater than 50%.[@gagne2018; @forauer2002]
 
 **You talked about over-diagnosis. Can you talk us through some of the
 decision-making processes that you go through when you're assessing a
@@ -1186,6 +1197,16 @@ case selection is very important for these procedures.
 ### Management
 
 #### Endovascular
+
+There is variability in the availability of stents for venous
+obstruction. However, closed cell braided stents (i.e. the Wallstent)
+have been around for many years and has the most data related to long
+term durability.[@gagne2019] These stents have the least radial force at
+the ends, so it is recommended to extent 1-2cm beyond the venous
+obstruction. In cases of proximal iliac vein obstruction, this may
+require extending into the IVC 1-2cm which may cross, or "jail" the
+contralateral iliac vein. When jailed, the rate of DVT on that side has
+been reported as high as 10%.[@murphy2017; @le2018]
 
 **So following a deep venous recanalization and stenting, what
 surveillance do you offer for these patients?**
@@ -1332,13 +1353,25 @@ quite important. So not for the faint-hearted.
 
 SVC syndrome is an acute presentation of head and neck venous congestion
 often due to SVC obstruction. This can be intrinsic due to indwelling
-catheters or extrinsic due to malignancy.[@kalra2019]
+devices or extrinsic due to malignancy or mediastinal fibrosis (half of
+benign cases).[@kalra2019; @rice2006; @parish1981]
+
+### Management
+
+Angioplasty and stenting are first line treatment for benign
+etiology.[@rizvi2008; @sheikh2005] Often angioplasty alone is
+sufficient, but stenosis refractory to angioplasty may require stenting.
+SVC syndrome with failed endovascular management in reasonable operative
+candidates can undergo open reconstruction with large diameter
+prosthetic graft or spiral vein graft.[@doty1999] However, restenosis in
+open repair can be as high as 15%.[@kalra2018; @sfyroeras2017]
 
 SVC syndrome secondary to malignancy, bronchogenic or lymphoma, is often
 most effectively treated with palliative radiotherapy with good
 response.[@talapatra2016] Endovascular or open recannalization is often
 reserved only for those with severe symptoms refractory to radiation or
-chemotherapy. Lymphedema pumps can help with symptom management as well.
+chemotherapy.[@higdon2006] Lymphedema pumps can help with symptom
+management as well.
 
 ## Venous Trauma
 
