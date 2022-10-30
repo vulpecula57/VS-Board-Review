@@ -106,10 +106,12 @@ signs of central venous stenosis?**
 Unilateral arm swelling or edema and prominent venous collaterals are
 signs of central venous stenosis. Central venous stenosis can lead to
 venous hypertension which affects access patency and function, and also
-causes disabling edema.
+causes disabling edema. Placement of AV access in a patient with
+undiagnosed SVC stenosis or obstruction can cause SVC
+syndrome.[@kalra2019]
 
 Beyond signs of central venous stenosis, when examining a patient, an
-Allen's test should always be performed to evaluate palmer arch patency.
+Allen's test should always be performed to evaluate palmar arch patency.
 
 **Preoperative planning should also include arterial and venous
 assessments. What are your size requirements for the artery and the vein
