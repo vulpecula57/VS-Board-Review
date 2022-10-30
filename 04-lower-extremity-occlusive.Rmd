@@ -215,9 +215,9 @@ presentation?**
 
 The original population studies we mentioned determined the epidemiology
 and natural history of Intermittent Claudication based on historically
-validated and widely accepted questionnaires, namely the Rose
+validated and widely accepted questionnaires, namely the ***Rose***
 [@roseDiagnosisIschaemicHeart1962] (which later was adopted by the WHO)
-and subsequently the Edinburgh questionnaire
+and subsequently the ***Edinburgh questionnaire***.
 [@lendEdinburghClaudicationQuestionnaire1992].
 
 All questionnaires are based on a number of key diagnostic clinical
@@ -225,17 +225,17 @@ factors that define claudication, they are:
 
 -   Onset
 
--   Calf involvement
+-   Calf Involvement
 
 -   Reproducibility
 
 -   Relief with Rest
 
--   Not occurring at Rest
+-   Not Occurring at Rest
 
-The progression historically graded by Fontaine (1954)
-[@fontaineSurgicalTreatmentPeripheral1954] followed by the Rutherford
-Grading System (1986, Revised 1997)
+The progression of intermittant claudication was historically graded 
+by Fontaine (1954) [@fontaineSurgicalTreatmentPeripheral1954] followed 
+by the Rutherford Grading System (1986, Revised 1997)
 [@rutherfordRecommendedStandardsReports1997]
 
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
@@ -260,14 +260,16 @@ American Chapter ISCVS:
 | III        | 6           | Major Tissue Loss             |
 +------------+-------------+-------------------------------+
 
-Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
-impotence and decreased pulses signifies aortoiliac occlusive disease.
+**Leriche Syndrome** - Is a clinical triad of: claudication (buttock, 
+thigh, and calf), impotence, and decreased lower limnb pulses, which 
+signifies aortoiliac occlusive disease.
 [@frederick2010; @leriche1948; @setacci2012]
 
-Differentiating neurogenic claudication from vasculogenic claudication
-can be difficult. Vasculogenic claudication is releived by cessation of
-ambulation and mostly affects a unilateral calf. Neurogenic improves
-with postural changes, more often bilateral and affects the thighs.
+**Neurogenic Claudication** - Differentiating neurogenic claudication 
+from vasculogenic claudication can be difficult. Vasculogenic claudication 
+is releived by cessation of ambulation and mostly affects a unilateral 
+calf. Neurogenic improves with postural changes, more often bilateral and 
+affects the thighs.
 [@nadeauReliabilityDifferentiatingNeurogenic2013]
 
 **What is involved in the work up of patients with PAOD/Intermittent
@@ -275,12 +277,12 @@ Claudication?**
 
 ### History / Clinical Examination
 
-SVS Guidelines:
+***SVS Guidelines:***
 
-"We recommend using ABI as the first-line non-invasive test to establish
-a diagnosis of PAD in individuals with symptoms or signs suggestive of
+"We recommend using ABPI as the first-line non-invasive test to establish
+a diagnosis of PAOD in individuals with symptoms or signs suggestive of
 disease. When the ABI is borderline or normal (\>0.9) and symptoms of
-claudication are suggestive, we recommend an exercise ABI."
+claudication are suggestive, we recommend an exercise ABPI."
 
 *Grade 1 Level of Evidence A*
 
@@ -292,12 +294,13 @@ claudication are suggestive, we recommend an exercise ABI."
 
 **What is an ABPI and how is it measured?**
 
-The AHA came out with guidelines on how to perform an ABI and to
-standardise the method to allow for more comparable results from
-studies.
+The AHA released guidelines on how to perform an ABPI in an attempt
+ to standardise the method to allow for more comparable results from
+studies:
 
 Divide the higher of the PT or DP pressure by the higher of the right or
-left Brachial SBP *(Class 1 Level of Evidence A)*
+left Brachial SBP 
+*(Class 1 Level of Evidence A)*
 [@aboyansMeasurementInterpretationAnkleBrachial2012]
 
 Sensitivity and Specificity both \>95% (when ABPI cut off \</=0.9 -- in
@@ -310,23 +313,26 @@ detecting \>/= 50% stenosis) [@yaoAnkleSystolicPressure2005;
 | \>0.9-1.39 |      Normal      |
 |  0.5-0.9   | Mild to Mod PAD  |
 |  0.0-0.5   |    Severe PAD    |
+Table: Interpretation of ABPIs. 
 
-**What is Exercise ABPI studies?**
+
+**What are Exercise ABPI studies?**
 
 Constant Load Testing -- (unlike the Graded Test -- Bruce Protocol).
 
-The mechanism for changes in ABPI are related to the fact that exercise
-increases SBP and decreases SVR and therefore will affect flow across a
-stenosis making it more physiologically relevant during exercise.
+The physiological changes in ABPI related to exercise are due to the 
+fact that exercise increases SBP and decreases SVR and, therefore, 
+will affect flow through a stenosis making it more physiologically 
+relevant during exercise.
 [@nicolaiReliabilityTreadmillTesting2009;
 @alqahtaniPredictorsChangeAnkleBrachial2018]
 
 Walking distance has been shown to correlate with level and severity of
 POAD. [@strandnessHemodynamicsSurgeons1975a]
 
-Patients with single level iliac disease may present with buttock/thigh
-claudication with preserved pulses. Exercise treadmill ABI particularly
-useful in determining the severity of disease in these patients.
+Furthermore patients with single level iliac disease may present with 
+buttock/thigh claudication with preserved pulses. Exercise treadmill ABPI 
+particularly useful in determining the severity of disease in these patients.
 [@aboyansGeneralPrognosisPatients2010]
 
 For more on exercise testing see \@ref(lower-extremity).
@@ -362,9 +368,9 @@ Adapted from Stone and Hass. Vascular Laboratory: Arterial Duplex
 Scanning. Rutherford's Vascular Surgery and Endovascular Therapy.
 2019.[@stone21VascularLaboratory2019]
 
-**What Guidelines are there pertaining to PAD Management.**
+**What Guidelines are there pertaining to PAOD Management.**
 
-SVS Guidelines (2015)
+***SVS Guidelines (2015)***
 
 -   The SVS published the SVS practice guidelines for atherosclerotic
     occlusive disease of the lower extremities:**Management of
@@ -379,7 +385,7 @@ Other Guidelines:
 
 -   AHA Guidelines (last update 2016)
 
-**What is the initial management of Asymptomatic Patients with PAD?**
+**What is the initial management of Asymptomatic Patients with PAOD?**
 
 1.  Smoking Cessation -- Multidisciplinary comprehensive smoking
     cessation interventions -- repeatedly until tobacco use has stopped
@@ -390,31 +396,32 @@ Other Guidelines:
 **How can we medically (non-invasively) manage Asymptomatic PAOD based
 on the SVS Guidelines?**
 
--   Anti-platelet Therapy
+-   ***Anti-platelet Therapy***
 
     -   The Aspirin for Asymptomatic Atherosclerosis Trial -- n=3350,
         aspirin versus placebo. 8 years follow up no difference in
         events [@fowkesAspirinPreventionCardiovascular2010] -- therefore
         benefit unknown
 
--   Statin Therapy
+-   ***Statin Therapy***
 
     -   The Heart Protection Study
         [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007] -
         this study looked at Statins in patients with PAD but not
         completely asymptomatic, they had other risk factors such as
-        diabetes, IHD, cerebral disease or hypertension. Without these
-        risk factors Statin therapy benefit unsure.
+        diabetes, IHD, cerebrovascular disease, or hypertension. Without these
+        risk factors the benefit of Statin therapy remains unclear.
 
     -   However, the AHA from the Framingham Study does recommend using
         Statins if 10-year risk based on risk calculators \>7.5% (which
-        would be positive if PAD present).
+        would be positive if PAOD present).
 
--   Exercise and Limb Function
+-   ***Exercise and Limb Function***
 
-    -   No clear evidence that physical therapy improves QoL
+    -   No clear evidence that physical therapy improves the patient 
+        outcomes or quality of life. 
 
--   Surveillance
+-   ***Surveillance***
 
     -   No benefit from US surveillance, unclear benefit of ABPI
         surveillance.
@@ -424,44 +431,43 @@ on the SVS Guidelines?**
 **How can we medically manage Intermittent Claudication based on the SVS
 Guidelines?**
 
--   Smoking Cessation -- Multidisciplinary comprehensive smoking
+-   **Smoking Cessation:** Multidisciplinary comprehensive smoking
     cessation interventions -- repeatedly until tobacco use has stopped
-    (Grade A -- 1)
+    *(Grade A -- 1)*
 
--   Dyslipidaemia: Statin Therapy Recommended -- most recent evidence on
+-   **Dyslipidaemia:** Statin Therapy Recommended -- most recent evidence on
     lipid therapy has suggested focusing on reducing 10-year
     cardiovascular event risk rather than specifically reducing lipid
-    levels. (Grade 1-A)
+    levels. *(Grade 1-A)*
 
--   Statin Therapy -- Aspirin therapy (75-325mg daily) is recommended to
-    reduce cardiovascular events in patients with PAD (Grade 1-Level A)
+-   **Anti-Platelet Therapy:** Aspirin therapy (75-325mg daily) is recommended to
+    reduce cardiovascular events in patients with PAD *(Grade 1-Level A)*
     [@collaborationCollaborativeMetaanalysisRandomised2002]
 
     -   There is evidence that Clopidogrel 75mg compared to Aspirin is
-        better in event reduction
+        better in event reduction.
         (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]--
-        replacing Aspirin with Clopidogrel Grade 1-Level B)
+        replacing Aspirin with Clopidogrel *(Grade 1-Level B)*
 
--   Diabetes Mellitus -- Optimization of HbA1C \< 7% (Grade 1-Level B)
+-   **Diabetes Mellitus:** -- Optimization of HbA1C \< 7% *(Grade 1-Level B)*
 
--   Hypertension -- Indicated B-Blockers for hypertension (Grade 1-Level
+-   **Hypertension** -- Indicated B-Blockers for hypertension 
+    *(Grade 1-Level B)* (there's no evidence that Beta Blockers worsens IC)
 
-    B)  (there's no evidence that Beta Blockers worsens IC)
-
--   Homocysteine -- Recommendation against Folic Acid and Vit B12 (
-    Grade 2 -- C)
+-   **Homocysteine** -- Recommendation against Folic Acid and Vit B12 
+    *(Grade 2 -- C)*
 
 **To improve Limb Function in patients with IC:**
 
--   Cilostozol use -- IC without CHF -- 3-month Trial (Grade 2 - A)
+-   **Cilostozol** use -- IC without CHF -- 3-month Trial (Grade 2 - A)
 
     -   If unable to tolerate Cilostozol -- Pentoxifylline (400mg TDS)
-        (Grade 2 -- B)
+        *(Grade 2 -- B)*
 
     -   Based on Meta-analysis 26 trials
         [@stevensSystematicReviewEfficacy2012]
 
--   Exercise Therapy
+-   **Exercise Therapy**
 
     -   First Line Therapy recommended SEP: minimum three times / week
         (30-60 min/session) for at least 12 weeks (Grade 1 Level A)
@@ -474,7 +480,7 @@ Guidelines?**
     -   Meta- Analysis of 14RCT's: SEP better than Non-Supervised
         Programs. [@hagemanSupervisedExerciseTherapy2018]
 
-**What is the management for patients with Intermittent Claudication?**
+**What is the surgical management for patients with Intermittent Claudication?**
 
 -   With appropriate medical management and risk modification, 25% of
     patients will improve, 50% will remain stable and 25% will progress
@@ -501,7 +507,7 @@ Guidelines?**
 
 -   **Anatomical Selection:**
 
-    -   Aortoiliac Disease:
+    -   ***Aortoiliac Disease:***
 
         -   Previous TASC Classification has attempted to categorise
             anatomy of disease and subsequent recommendation of
@@ -511,52 +517,52 @@ Guidelines?**
             surgical bypass as a primary treatment for both focal and
             advanced AIOD in many cases."
 
-        -   The majority of evidence is non randomized and meta analyses
-            of non-randomized series.
+        -   **The majority of evidence is non randomized and meta analyses
+            of non-randomized series.**
 
         -   Endovascular procedures over open surgery for focal AIOD
-            causing IC. (Grade 1 Evidence B)
+            causing IC. *(Grade 1 Evidence B)*
 
         -   Endovascular interventions as first line for CIA or EIZ
-            occlusive disease-causing IC. (Grade 1 Level B)
+            occlusive disease-causing IC. *(Grade 1 Level B)*
 
-        -   Hybrid recommended for Iliac disease involving CFA. (Grade 1
-            Level B)
+        -   Hybrid recommended for Iliac disease involving CFA. *(Grade 1
+            Level B)*
 
         -   Direct Surgical reconstruction (bypass, endarterectomy) in
             patients with reasonable surgical risk and diffuse AIOD not
             amenable to endovascular approach, after one or more failed
             attempts at EVT, or combined occlusive and aneurysmal
-            disease. (Grade 1 Evidence B)
+            disease. *(Grade 1 Evidence B)*
 
-    -   Infrainguinal Disease:
+    -   ***Infrainguinal Disease:***
 
-        -   When you look at the historical data comparing all EVT
-            together they are less durable than surgical bypass,
+        -   Reviewing historical data comparing all EVT
+            compared with surgical bypass EVTs are less durable,
             especially when there's diffuse or long segments of
-            occlusion/multilevel infra inguinal disease.
+            occlusion/multilevel infrainguinal disease.
 
-        -   Most recommendations are based on low level evidence when
-            comparing EVT versus Open Surgery
+        -   **Most recommendations are based on low level evidence when
+            comparing EVT versus Open Surgery**
 
-        -   Focal + Not involving SFA origin = EVT (Grade 1 Level C)
+        -   Focal + Not involving SFA origin = EVT *(Grade 1 Level C)*
 
         -   SFA 5-15cm, self-expanding stent (with or without
-            paclitaxel) (Grade 1 Level B) -- NB: (This was in 2015 pre
+            paclitaxel) *(Grade 1 Level B)* -- NB: (This was in 2015 pre
             Katsanos Paper)
 
-        -   Recommend against infrapopliteal treatment for IC (Grade 1
-            Level C)
+        -   Recommend against infrapopliteal treatment for IC *(Grade 1
+            Level C)*
 
-        -   Initial Surgical Bypass (with vein: Grade 1 Level a): If
+        -   Initial Surgical Bypass *(with vein: Grade 1 Level A)*: If
 
-            -   Diffuse FP disease
+            -   Diffuse FP Disease
 
             -   Small Calibre \<5mm
 
-            -   Extensive calcification in SFA
+            -   Extensive Calcification in SFA
 
-            -   Average or low operative risk (Grade 1 Level B)
+            -   Average or Low Operative Risk *(Grade 1 Level B)*
 
 ## Chronic Limb Threatening Ischemia
 
