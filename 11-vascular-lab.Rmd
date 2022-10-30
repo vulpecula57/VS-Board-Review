@@ -960,7 +960,7 @@ determine in stent restenosis.[@chi2009; @schäberle2016]
 [Renal artery aneurysms:]{.underline} Can see a yin-yang sign.
 [@gutta2008; @ham2014]
 
-## Venous
+## Venous {#sec-venous}
 
 **Venous Exam:** Uses a linear transducer. Complete deep venous reflux
 duplex examination includes color and pulsed wave spectral doppler
@@ -1205,13 +1205,12 @@ on exams:
 **Aliasing:** Unlike [continuous wave
 Doppler](https://radiopaedia.org/articles/continuous-wave-doppler?lang=us),
 pulsed wave and color flow Doppler are characterized by rapid pulses of
-ultrasound waves (at a rate called the pulse repetition frequency).
-The [Nyquist
-limit](https://radiopaedia.org/articles/nyquist-limit?lang=us) defines
-the frequency at which aliasing will occur, as equal to the PRF/2. So
-what does this mean practically? In pulsed wave doppler, if the velocity
-of blood is greater than ½ the PRF, the peak velocity will be cut off,
-and wrapped around to the bottom of the scale.
+ultrasound waves (at a rate called the pulse repetition frequency). The
+[Nyquist limit](https://radiopaedia.org/articles/nyquist-limit?lang=us)
+defines the frequency at which aliasing will occur, as equal to the
+PRF/2. So what does this mean practically? In pulsed wave doppler, if
+the velocity of blood is greater than ½ the PRF, the peak velocity will
+be cut off, and wrapped around to the bottom of the scale.
 
 ```{r echo=FALSE}
 
