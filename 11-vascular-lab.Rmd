@@ -978,7 +978,7 @@ on the non weight-bearing leg.
 **We've talked extensively about normal arterial waveforms; what do
 normal venous waveforms look like?**
 
-[Normal venous waveforms:]{.underline} Normal flow patterns of iliac and
+[Normal venous waveforms:]{.underline} Normal flow patterns of iliac and
 femoral veins demonstrate phasicity and should augment with distal
 compression. In the upper extremity central veins, doppler waveforms
 normally demonstrate pulsatility and phasicity.
@@ -1089,8 +1089,15 @@ knitr::include_graphics(rep("images/vasc_lab2/Slide22.png"))
 
 Acute thrombus typically causes the vein to dilate with a diameter
 greater than the diameter of the adjacent artery. Venous wall
-thickening/scarring, a contracted vein, recanalization, and
-collateralization are found in chronic thrombosis.
+thickening/scarring, a contracted vein, recanalization, and collaterals
+are found in chronic thrombosis.
+
+When performing a DVT scan, the technician should evaluate the
+contralateral femoral vein flow to compare flow
+patterns.[@needleman2018; @societyforvascularultrasound2019] More
+proximal venous obstruction will demonstrate loss of respiratory
+variation, constricted/scarred/thickened vein, and poor augmentation
+with distal compression.
 
 **Let's discuss 2 Specific examples of venous thrombosis: VTOS and
 EHIT**
