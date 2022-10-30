@@ -1450,50 +1450,58 @@ After the appropriate evaluation, if decompression of thoracic outlet is
 deemed appropriate, there are multiple approaches to the first rib
 resections.
 
-+-----------+---------------------------+-------------------------+
-|           | Advantages                | Disadvantages           |
-+===========+===========================+=========================+
-| **Transa  | Cosmetically more         | Difficult to visualize  |
-| xillary** | appealing as it has a     | the anatomy, dependent  |
-|           | limited hidden scar       | on good assistance      |
-|           |                           |                         |
-|           |                           | Risk of injury to T1    |
-|           |                           | nerve root, phrenic     |
-|           |                           | nerve, long thoracic,   |
-|           |                           | brachial plexus ,       |
-|           |                           | subclavian vein and     |
-|           |                           | arterial with limited   |
-|           |                           | exposure to repair      |
-|           |                           |                         |
-|           |                           | Not able to approach    |
-|           |                           | cervical ribs, scalene  |
-|           |                           | triangle or patch vein. |
-+-----------+---------------------------+-------------------------+
-| *         | Good for scalene triangle | Unable to decompress    |
-| *Supracla | access and debulking and  | venous compression or   |
-| vicular** | cervical rib resection    | visualize vein          |
-|           |                           | adequately              |
-|           | Required for aTOS if      |                         |
-|           | arterial reconstruction   | Cosmetically less       |
-|           | necessary                 | appealing               |
-+-----------+---------------------------+-------------------------+
-| *         | Good access for venous    | Unable to expose        |
-| *Infracla | decompression             | subclavian artery or    |
-| vicular** |                           | decompress brachial     |
-|           | Allows for excision of    | plexus.                 |
-|           | subclavius muscle and     |                         |
-|           | costoclavicular ligament  | Difficult to access     |
-|           |                           | most posterior aspect   |
-|           |                           | of rib                  |
-|           |                           |                         |
-|           |                           | Cosmetically less       |
-|           |                           | appealing               |
-+-----------+---------------------------+-------------------------+
-| **Paracla | Useful if mixed etiology  | Requires two incisions  |
-| vicular** | TOS to adequately         | one above and below the |
-|           | decompression all         | clavicle                |
-|           | neurovascular structures  |                         |
-+-----------+---------------------------+-------------------------+
++---------------------+----------------------+----------------------+
+|                     | Advantages           | Disadvantages        |
++=====================+======================+======================+
+| **Transa xillary**  | Cosmetically more    | Difficult to         |
+|                     | appealing as it has  | visualize the        |
+|                     | a limited hidden     | anatomy, dependent   |
+|                     | scar                 | on good assistance   |
+|                     |                      |                      |
+|                     |                      | Risk of injury to T1 |
+|                     |                      | nerve root, phrenic  |
+|                     |                      | nerve, long          |
+|                     |                      | thoracic, brachial   |
+|                     |                      | plexus , subclavian  |
+|                     |                      | vein and arterial    |
+|                     |                      | with limited         |
+|                     |                      | exposure to repair   |
+|                     |                      |                      |
+|                     |                      | Not able to approach |
+|                     |                      | cervical ribs,       |
+|                     |                      | scalene triangle or  |
+|                     |                      | patch vein.          |
++---------------------+----------------------+----------------------+
+| -   \*Supracla      | Good for scalene     | Unable to decompress |
+|                     | triangle access and  | venous compression   |
+|     vicular\*\*     | debulking and        | or visualize vein    |
+|                     | cervical rib         | adequately           |
+|                     | resection            |                      |
+|                     |                      | Cosmetically less    |
+|                     | Required for aTOS if | appealing            |
+|                     | arterial             |                      |
+|                     | reconstruction       |                      |
+|                     | necessary            |                      |
++---------------------+----------------------+----------------------+
+| -   \*Infracla      | Good access for      | Unable to expose     |
+|                     | venous decompression | subclavian artery or |
+|     vicular\*\*     |                      | decompress brachial  |
+|                     | Allows for excision  | plexus.              |
+|                     | of subclavius muscle |                      |
+|                     | and costoclavicular  | Difficult to access  |
+|                     | ligament             | most posterior       |
+|                     |                      | aspect of rib        |
+|                     |                      |                      |
+|                     |                      | Cosmetically less    |
+|                     |                      | appealing            |
++---------------------+----------------------+----------------------+
+| **Paracla vicular** | Useful if mixed      | Requires two         |
+|                     | etiology TOS to      | incisions one above  |
+|                     | adequately           | and below the        |
+|                     | decompression all    | clavicle             |
+|                     | neurovascular        |                      |
+|                     | structures           |                      |
++---------------------+----------------------+----------------------+
 
 @siracuseInfraclavicularFirstRib2015
 
@@ -1551,15 +1559,20 @@ resections.
 
 #### Evaluation
 
+Upper extremity venogram is a very useful modality for diagnosis.
+Compression likely will not be seen in normal orientation, however can
+be demonstrated with provocative maneuvers including 90 degree arm
+abduction and external rotation.[@moriarty2015]
+
 -   A differential diagnosis for Upper Limb DVT
 
     -   vTOS
 
     -   Congenital Phrenic Nerve anomaly
 
-    -   History of Fracture, Clavicular Fracture and malunion
+    -   History of fracture, clavicular fracture and malunion
 
-    -   Repetitive arm provocative manoeuvres, check occupation and
+    -   Repetitive arm provocative maneuvers, check occupation and
         history of body-building
 
         -   Pectoralis Minor Hypertrophy.
